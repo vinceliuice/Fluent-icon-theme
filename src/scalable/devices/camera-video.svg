@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="13" y="6" width="42" height="54" rx="8" ry="8" fill="#4f4f4f" stroke-width=".94868"/>
+ <rect x="7" y="15" width="6" height="36" rx="1.5" ry="1.385" fill="#3f3f3f"/>
+ <circle cx="18.5" cy="50.5" r="1.5" opacity=".5"/>
+ <circle cx="24.5" cy="50.5" r="1.5" opacity=".5"/>
+ <circle cx="30.5" cy="50.5" r="1.5" opacity=".5"/>
+ <circle cx="36.5" cy="50.5" r="1.5" opacity=".5"/>
+ <circle cx="21.5" cy="54.5" r="1.5" opacity=".5"/>
+ <circle cx="27.5" cy="54.5" r="1.5" opacity=".5"/>
+ <circle cx="33.5" cy="54.5" r="1.5" opacity=".5"/>
+ <path d="m23 1c-1.662 0-3 1.338-3 3v10 4 14c0 7.202 5.798 13 13 13h4 10 10c1.662 0 3-1.338 3-3v-10-4-14c0-7.202-5.798-13-13-13h-4-10-10z" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.051" style="paint-order:stroke fill markers"/>
+ <image x="20" y="1" width="40" height="44" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAsCAYAAAAXb/p7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAwdJREFUWIXt2c9u4lYYxuH3e49t IH86K5R1pO6iSJHSC+AK2HE/vp8ss2A5XnQ7mhVRolaqNBpNmiJVShNibJ/zfV0kRjMEaCUgzoKf 5A0YeDiHYyNb8Jzg7bP/s5OkacrLy0u3bc3h4aEBQLfbNQA4OTmxNE1r5FKsDAaDzv39PbeJa7Va BgDtdtv29/ft7u7ODg4ObDwea6/X0xfoQqQMBoPu/IPe+41MeRRFsw+dTqcWRZGVZal7e3sKINTb Kqj0+/2fN4H5r0haCEEBBDMLcRxXZVlWk8mkAuAB+EVI6ff7vwCAmW1loYiI1UBVVQDBOVeZWUmy yPO8AFDkeV5+h9T69RHJD9uAzRdCMOecmlnw3lciUojItNPpuHpw8jzHaDSq8HxUMQCIVHV/2zgR MZJQVSWpIuIBJN77CADjOMYLSAFomqaWpikAWCQiybaBdfZcvUCcc44hBJiZdjqdQNIDCFmW1fuA ANz8ZmbRJrb59yUZiUhMMjazlqq2RaQTQmiraitJkhiA63a7TNNUACASkVfHQJGNrZfZG6mqvYyi kIRzDmamZtYys1JEkqqq4iiK3OPjo4xGIwHwGretSApJcc5BVeuZi8wsIhmHEGIRcU9PTzw6Opp9 sTcD1tUr1sxEVSkiFJHZzyBJEk4mExmPx89T/NZAAHgZRZAUAAwh0DlHAPTey/dnsjcfQeD1ScE5 J6oqqirtdlsA4OHhQRoDAj9O9fxzRVE0O4KLqqHzf1TeDXBZO+C67YDrtgOu2w64bjvguu2A6/b+ gWZWNY1YFUlOm0asit77p6YRqyLJP5tGrIplWX5tGrEqDofDfwD81TRkWQSAOI4/Nw1ZFgHg4uLi 7xDC701jFjU7UJ+fn3/CO5zqGTBNUy2K4le8M+QPp7rhcFicnZ19VNXfmgLN9+oGTpZldnNz8+30 9PSbqv4EYCuXiM0MIqIAgohUZlaIyJRkUVVVled5uL291aV3mK6urvLr6+s/jo+PvzjncjOrLzi6 RRc9NwkkWfZ6vSrLMvsXM1rPRVSWzo8AAAAASUVORK5CYII= "/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-13.5" cy="-47.5" r="2.5" fill="#ffffff"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-13.5" cy="-47.5" r="1.5" fill="#ff4d4d"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-27.5" cy="-35.5" r="11.5" fill="#ffffff"/>
+ <circle transform="rotate(-90)" cx="-27.5" cy="35.5" r="8.5" fill="#007095"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-27.5" cy="-35.5" r="4.5" fill="#49acdc"/>
+</svg>

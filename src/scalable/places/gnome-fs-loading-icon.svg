@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d" x1="32.707" x2="53" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f3f3f3" offset="0"/>
+   <stop stop-color="#f9f9f9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="11" x2="32" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dbdbdb" offset="0"/>
+   <stop stop-color="#f3f3f3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="11" x2="11" y1="32" y2="11" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dcdcdc" offset="0"/>
+   <stop stop-color="#d3d3d3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32" cy="32" r="26" fill="#f9f9f9" stroke="#000" stroke-opacity=".039" stroke-width="0" paint-order="stroke markers fill"/>
+ <path d="m32 11a21 21 0 0 0-21 21 21 21 0 0 0 21 21 21 21 0 0 0 21-21h-2a19 19 0 0 1-19 19 19 19 0 0 1-19-19 19 19 0 0 1 19-19v-2z" fill="url(#d)" paint-order="stroke markers fill"/>
+ <path d="m31 16h2v16h-2z" fill="#333" paint-order="stroke markers fill"/>
+ <path d="M32.707 32l15.557 15.556-.708.708L32 32.707z" fill="#c08589" paint-order="stroke markers fill"/>
+ <ellipse cx="32" cy="32" rx="1" ry="1" fill="#333" paint-order="stroke markers fill"/>
+ <path d="m32 9 5 3-5 3z" fill="#d3d3d3" paint-order="markers stroke fill"/>
+ <path d="m32 11a21 21 0 0 0-21 21 21 21 0 0 0 21 21v-2a19 19 0 0 1-19-19 19 19 0 0 1 19-19v-2z" fill="url(#e)" paint-order="stroke markers fill"/>
+ <path d="m32 11a21 21 0 0 0-21 21h2a19 19 0 0 1 19-19v-2z" fill="url(#f)" paint-order="stroke markers fill"/>
+ <circle cx="32" cy="32" r="13" fill="#ffffff" stroke="#000" stroke-opacity=".039" stroke-width="0" paint-order="stroke markers fill"/>
+ <image x="28.392" y="19" width="17" height="26" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAaCAYAAABRqrc5AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAhZJREFUOI3tlM1OU0EUx//nzNzh 3n7QL9DSW2zoommjJMa4wo1bXsEHgLhgwxO0L8CGXR/BLl24ccXCHRuNLJQEUwKxREnqBenHnXtc CEnB0tSYuNFfcpJZnPPLmck/owA4AIoAVgE8B/AIQB9AF8AQU8AAFAAXQAKABhC/LAcATSv5Y/5L /ikJ3aip0VcHBQiYoZjZUUqxMRwEwVQyDUAAhEqpnjGml3BdzCWTxp+fN7PlsnrRakX0s+dWCIAT j8ezGniQTSYfLuZyXs33P973l97l76SP5j3v/Gm9bieJCAAXCgU3ae3dku8vLZdKC9W8Twu5uc9u zLSFuaN7vYkiBUCCIIhWqtXecrFyVisvDvKprPHcmYRimjEiduA4g9flsn25uyuNWyQAIM/W1+0T Q/10JtN39IwopTwWzFrWhkJEOuENdiqVsaJrry8i9Gp726jT05RxYgUQiiJRjFidShgdkr3ofDg+ Pl9rNsPRq10LGxHJ6sbGwGazXUXhkWZ1COCcrGSYcQ8w+UqhFm+urWkZWWBsDkSE9lot5+v+fioM uQCFIjPHbGi7rJy2pmHHOzg4e9xsDoGRsN3cSESGe41W9yTRFtUXCSO7qJnSoAhRyDSoVj/h8g8e KxkVodH6dpJoQ/cthJwioihNzF9WNjcvrnpvlfwiwh7YVUKWHTv8/nbS3FhEhN7X6+bN1pb328N/ lR8Jq8kOujodpwAAAABJRU5ErkJggg== "/>
+</svg>

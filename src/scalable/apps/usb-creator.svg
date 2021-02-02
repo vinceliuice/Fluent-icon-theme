@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter879" x="-.090346" y="-.13423" width="1.1807" height="1.2685" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.9575"/>
+  </filter>
+  <clipPath id="clipPath885">
+   <circle cx="47" cy="47" r="16" fill="#45d157" stroke-width="1.1429"/>
+  </clipPath>
+  <linearGradient id="linearGradient895" x1="30" x2="30" y1="8" y2="27" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dbdbdb" offset="0"/>
+   <stop stop-color="#b2b2b2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="13" y="6" width="38" height="24" rx="4" ry="4" fill="url(#linearGradient895)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:markers stroke fill"/>
+ <rect x="6.0003" y="23" width="52" height="35" rx="6.0003" ry="6.0003" fill="#4d4d4d" stroke-width="1.0459"/>
+ <circle cx="47" cy="47" r="16" fill="#5dde8c" stroke-width="1.1429"/>
+ <rect x="6.0003" y="23" width="52" height="35" rx="6.0003" ry="6.0003" clip-path="url(#clipPath885)" fill="#4d4d4d" filter="url(#filter879)" opacity=".35" stroke-width="1.0459"/>
+ <path d="m40 48 7 8 7-8h-4v-10h-6v10z" fill="#ffffff"/>
+ <rect x="18" y="14" width="9" height="5" rx="1" ry="1" fill="#000000" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" style="paint-order:stroke fill markers"/>
+ <rect x="37" y="14" width="9" height="5" rx="1" ry="1" fill="#000000" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" style="paint-order:stroke fill markers"/>
+</svg>

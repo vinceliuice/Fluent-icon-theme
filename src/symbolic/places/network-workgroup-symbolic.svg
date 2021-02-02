@@ -1,0 +1,8 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
+ </defs>
+ <g transform="translate(-.030864)" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers" aria-label="">
+  <path d="m6.0309 8h3v1h-3zm0-2h3v1h-3zm0-4h3v1h-3zm8 13h-3v1h-7v-1h-3v-1h3v-1h2v-1h1v-1h-3v-10q0-0.21094 0.078125-0.39062t0.21094-0.3125q0.14062-0.14062 0.32031-0.21875t0.39062-0.078125h5q0.21094 0 0.39062 0.078125 0.17969 0.078125 0.3125 0.21875 0.14062 0.13281 0.21875 0.3125t0.078125 0.39062v10h-3v1h1v1h2v1h3zm-4-5v-9h-5v9zm0 4h-2v-1h-1v1h-2v1h5z" stroke-width="2"/>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter913" x="-.12343" y="-.096" width="1.2469" height="1.192" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.16"/>
+  </filter>
+  <clipPath id="clipPath919">
+   <path d="m29.231 34c-0.681 0-1.2305 0.56648-1.2305 1.2715v22.455c0 0.705 0.54947 1.2714 1.2305 1.2734h4.7695l2.6152 3h14.77l2.6152-3h4.7695c0.681 0 1.2305-0.56844 1.2305-1.2734v-22.455c0-0.705-0.54947-1.2715-1.2305-1.2715z" fill="#f9f9f9"/>
+  </clipPath>
+ </defs>
+ <rect x="11" y="3" width="42" height="54" rx="10" ry="10" fill="#5494de" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.5235" style="paint-order:stroke fill markers"/>
+ <path d="m29.231 34c-0.681 0-1.2305 0.56648-1.2305 1.2715v22.455c0 0.705 0.54947 1.2714 1.2305 1.2734h4.7695l2.6152 3h14.77l2.6152-3h4.7695c0.681 0 1.2305-0.56844 1.2305-1.2734v-22.455c0-0.705-0.54947-1.2715-1.2305-1.2715z" fill="#f9f9f9"/>
+ <rect x="11" y="3" width="42" height="54" rx="10" ry="10" clip-path="url(#clipPath919)" fill="#5494de" filter="url(#filter913)" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.5235" style="paint-order:stroke fill markers"/>
+ <path d="m39 57.999-2-3h-5v-17h24v17h-4l-3 3z" fill="#ffffff"/>
+ <path d="m35 40.999h3v-3h-3zm5 0h3v-3h-3zm5 0h3v-3h-3zm5 0h3v-3h-3z" fill="#ffdd55"/>
+ <rect x="20" y="13" width="24" height="2" rx="1" ry="1" fill="#ffffff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.633" style="paint-order:stroke fill markers"/>
+ <rect x="23" y="17" width="18" height="2" rx="1" ry="1" fill="#ffffff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4142" style="paint-order:stroke fill markers"/>
+ <rect x="26" y="21" width="12" height="2" rx="1" ry="1" fill="#ffffff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1547" style="paint-order:stroke fill markers"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="2.6458" y="1.5875" width="11.641" height="13.758" rx="1.5875" ry="1.5875" fill="#f17060" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect x="1.3229" y="4.2332" width="14.287" height="8.4665" rx=".79373" ry=".79373" fill="#f9f9f9" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <image x="1.3229" y="4.2332" width="14.287" height="8.4665" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAgCAYAAABZyotbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALpJREFUWIXt2cEJAjEQheE3E1kM SsCjacMG0+C2EY9CUCKLmbEIV3YH5qvg/edHAKCl8L3WI3M/xzglyLiEoEkGTkQ8iegBTIQ9EFVm +qjKwgGvMaiBw6P3pYnE5zXnN5UirADNtQZOfR/Df8Cp01xrUIAYqlvvWZ8qeOsN/+Jh1niYNR5m jYdZ42HWeJg1HmaNh1njYdZ4mDUeZo2HWeNh1jB2cqKsighMgN5yHtKi+XdCWtRbzoMA/QLPnD1A aWZkqwAAAABJRU5ErkJggg== "/>
+ <g transform="translate(-1.0583)">
+  <rect x="8.7311" y="6.0853" width="4.2333" height="1.5875" rx=".79373" ry=".79373" fill="#ffffff" opacity=".5" stroke-width=".58552" style="paint-order:stroke markers fill"/>
+  <circle cx="12.17" cy="6.8792" r="1.0583" fill="#ffffff" stroke-width=".49991" style="paint-order:stroke markers fill"/>
+  <rect transform="scale(-1,1)" x="-13.229" y="9.2602" width="4.2333" height="1.5875" rx=".79373" ry=".79373" fill="#000000" opacity=".25" stroke-width=".58552" style="paint-order:stroke markers fill"/>
+  <circle transform="scale(-1,1)" cx="-9.7894" cy="10.054" r="1.0583" fill="#ffffff" stroke-width=".49991" style="paint-order:stroke markers fill"/>
+  <circle cx="6.3499" cy="6.879" r=".52916" fill="#ffffff" stroke-width="0" style="paint-order:stroke fill markers"/>
+  <circle cx="6.3499" cy="10.054" r=".52916" fill="#ffffff" stroke-width="0" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

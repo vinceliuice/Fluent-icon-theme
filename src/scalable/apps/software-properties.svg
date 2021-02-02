@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1043" x="-.081" y="-.162" width="1.162" height="1.324" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.21430827"/>
+  </filter>
+  <clipPath id="clipPath901">
+   <rect x="1.5875" y="2.6458" width="13.758" height="12.7" rx=".79373" ry=".79373" fill="#ececec" opacity=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3697" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <filter id="filter890" x="-.11291" y="-.1035" width="1.2258" height="1.207" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.54767672"/>
+  </filter>
+ </defs>
+ <rect x="1.5875" y="2.6458" width="13.758" height="12.7" rx=".79373" ry=".79373" fill="#ececec" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3697" style="paint-order:stroke fill markers"/>
+ <path d="m3.175 1.5875c-0.29315 0-0.52916 0.23601-0.52916 0.52916v0.52916h11.642v-0.52916c0-0.29315-0.236-0.52916-0.52916-0.52916z" fill="#6694ff" stroke-width=".93807" style="paint-order:stroke markers fill"/>
+ <rect x="2.6458" y="1.5875" width="11.641" height="12.7" rx=".52916" ry=".52916" clip-path="url(#clipPath901)" fill="#3388ff" filter="url(#filter890)" stroke-width=".93807" style="paint-order:stroke markers fill"/>
+ <rect x="1.5875" y="2.6458" width="13.758" height="12.7" rx=".79373" ry=".79373" fill="#ffffff" opacity=".65" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3697" style="paint-order:stroke fill markers"/>
+ <path d="m5.2918 4.2332a3.1749 3.1749 0 0 0 3.1749 3.1749 3.1749 3.1749 0 0 0 3.1749-3.1749h-0.79398a2.381 2.381 0 0 1-2.381 2.381 2.381 2.381 0 0 1-2.382-2.381z" fill="#1754d3" filter="url(#filter1043)" opacity=".35" stroke-width=".99998" style="paint-order:stroke markers fill"/>
+ <path d="m5.2918 3.9687a3.1749 3.1749 0 0 0 3.1749 3.1749 3.1749 3.1749 0 0 0 3.1749-3.1749h-0.79398a2.381 2.381 0 0 1-2.381 2.381 2.381 2.381 0 0 1-2.382-2.381z" fill="#6694ff" stroke-width=".99998" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m29 33v10h-5l8.002 7.998 7.998-7.998h-5v-10h-6z" fill="#ffffff" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+</svg>

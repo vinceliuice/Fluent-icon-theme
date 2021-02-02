@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="14" y="4" width="6" height="56" rx="3" ry="3" fill="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2107" style="paint-order:stroke fill markers"/>
+ <rect x="4" y="28" width="56" height="28" rx="4.2" ry="4.2" fill="#f9f9f9"/>
+ <path d="m32 36a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="#ffffff"/>
+ <circle cx="48" cy="42" r="5" fill="#000000" opacity=".5" stroke-width=".83333"/>
+ <image x="10.5" y="28" width="13" height="28" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAcCAYAAAC6YTVCAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE1JREFUOI3tyzEKgDAMQNGfUnEo 4tZL5JK5ZC/RTUoGsVDvILjl7U/MLLXW9lLKmXOuIlKBA9iABxhrrT7n7O5+qeqd+CBSpEiRIv2V XjFRE7rs9+pPAAAAAElFTkSuQmCC "/>
+ <circle cx="32" cy="42" r="5" fill="#000000" opacity=".5" stroke-width=".83333"/>
+ <path d="m48 36a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="#ffffff"/>
+ <circle cx="32" cy="42" r="3" fill="#ffffff" opacity=".5" stroke-width=".5"/>
+ <circle cx="48" cy="42" r="3" fill="#ffffff" opacity=".5" stroke-width=".5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter859" x="-.11475" y="-.102" width="1.2295" height="1.204" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.53"/>
+  </filter>
+ </defs>
+ <path d="m7.144 2.116a5.556 5.556 0 0 0-5.557 5.557v5.556h5.557a5.556 5.556 0 0 0 5.556-5.556 5.556 5.556 0 0 0-5.556-5.557z" fill="#ffffff" opacity=".6" style="paint-order:stroke markers fill"/>
+ <path d="m7.144 2.116a5.556 5.556 0 0 0-5.557 5.557v5.556h5.557a5.556 5.556 0 0 0 5.556-5.556 5.556 5.556 0 0 0-5.556-5.557z" fill="#f2f2f2" opacity=".8" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m42.379 14.697a20.999 20.999 0 0 1 5.6211 14.303 20.999 20.999 0 0 1-20.998 21h-4.6973a20.999 20.999 0 0 0 14.697 5.998h21v-20.998a20.999 20.999 0 0 0-15.623-20.303z" fill="#69e17c" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m37 14a21 21 0 0 0-21 21 21 21 0 0 0 6.332 15h4.668a21 21 0 0 0 21-21 21 21 0 0 0-5.635-14.277 21 21 0 0 0-5.365-0.723z" fill="#69e17c" filter="url(#filter859)" style="paint-order:stroke markers fill"/>
+ <rect x="7.673" y="8.466" width="4.762" height=".529" ry=".265" fill="#ffffff" style="paint-order:stroke markers fill"/>
+ <rect x="7.673" y="10.054" width="3.969" height=".529" ry=".265" fill="#ffffff" style="paint-order:stroke markers fill"/>
+ <path d="m7.144 2.116a5.556 5.556 0 0 0-5.557 5.557v5.556h5.557a5.556 5.556 0 0 0 5.556-5.556 5.556 5.556 0 0 0-5.556-5.557z" fill="#ffffff" opacity=".6" style="paint-order:stroke markers fill"/>
+</svg>

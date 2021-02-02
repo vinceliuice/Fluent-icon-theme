@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clipPath873">
+   <rect transform="rotate(-90)" x="-16.404" y="7.1436" width="8.4665" height="8.4665" rx="4.2333" ry="4.2333" fill="#f9f9f9" stroke-width=".5926"/>
+  </clipPath>
+  <filter id="filter867" x="-.11782" y="-.099692" width="1.2356" height="1.1994" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5714928"/>
+  </filter>
+ </defs>
+ <path d="m3.9687 1.0583c-0.87946 1.7e-6 -1.5875 0.70802-1.5875 1.5875v10.583c0 0.87946 0.70802 1.5875 1.5875 1.5875h8.4666c0.87946 0 1.5875-0.70802 1.5875-1.5875l-9.9e-5 -7.9374-4.2333-4.2333z" fill="#4caf50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.087" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(-90)" x="-16.404" y="7.1436" width="8.4665" height="8.4665" rx="4.2333" ry="4.2333" fill="#f9f9f9" stroke-width=".5926"/>
+ <path d="m14.023 5.2915-4.2333-4.2332v2.6458c0 0.87946 0.70801 1.5875 1.5875 1.5875z" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:stroke fill markers"/>
+ <image x="8.4665" y="1.0583" width="5.5561" height="5.8207" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAWCAYAAAAvg9c4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAMVJREFUOI2llOsOwyAIhY+2e//3 3VLdn5Idz8BbSYhWwidYIKGVRPuKTckdW+rYpqHJ2W+BvUgVuAxW6GOgB30MZKgCRt9dOchJdVui 9B+BvR/FGpXcNNQDbkV9BpHyZRVAGXCallaogb1nKeocXexBTSz9DOC619oBX7c20Ip/p0yrZ2d5 AfgAeGukBb9Uo7rtjcQTQNbJZOkepPYMwGQVaPocrZ1ltOU1lKjHLWKtVW/mDqF8zpBo8CxB1bY0 tWbbb6lNv5crG3xcbYlgAAAAAElFTkSuQmCC "/>
+ <path d="m3.9687 1.0583c-0.87946 1.7e-6 -1.5875 0.70802-1.5875 1.5875v10.583c0 0.87946 0.70802 1.5875 1.5875 1.5875h8.4666c0.87946 0 1.5875-0.70802 1.5875-1.5875l-9.9e-5 -7.9374-4.2333-4.2333z" clip-path="url(#clipPath873)" fill="#4caf50" filter="url(#filter867)" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.087" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.62497 0 0 .62497 6.0855 6.8791)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <path d="m8.463 8.467h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64m-3.283 2.82h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41h-5.64" stroke-width=".9399"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+------------------------ FLUENT ICON THEME ------------------------
+
+SOURCES:
+numix-icon-theme-circle: https://github.com/numixproject/numix-icon-theme-circle
+papirus-icon-theme: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+paper-icon-theme: https://github.com/snwh/paper-icon-theme
+
+CUSTOMIZER:
+Vince Liuice <vinceliuice@hotmail.com> - Fluent icon theme (https://github.com/vinceliuice/Fluent-icon-theme)
+
+------------------------ FLUENT ICON THEME ------------------------

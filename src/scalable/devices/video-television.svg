@@ -1,0 +1,43 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient893" x1="520" x2="410" y1="-620" y2="-620" gradientTransform="matrix(.030208 0 0 .030208 18.557 59.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#000000" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient873" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientTransform="matrix(.11417 0 0 .11417 18.557 59.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafbfb" offset="0"/>
+   <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient898" x1="-240.47" x2="-240.47" y1="-60.605" y2="-29.026" gradientTransform="matrix(.96667 0 0 .95 262.45 67.575)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4285db" offset="0"/>
+   <stop stop-color="#42b9db" offset="1"/>
+  </linearGradient>
+  <filter id="filter986" x="-.06075" y="-.486" width="1.1215" height="1.972" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6075"/>
+  </filter>
+  <clipPath id="clipPath992">
+   <rect x="29" y="41" width="6" height="16" rx="2.0208" ry="2.0208" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.8346" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <linearGradient id="linearGradient1017" x1="32" x2="32" y1="54" y2="59" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6b6b6b" offset="0"/>
+   <stop stop-color="#c2c2c2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="20" y="52" width="24" height="3" rx="1.5" ry="1.5" fill="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.5727" style="paint-order:stroke fill markers"/>
+ <rect x="29" y="41" width="6" height="16" rx="2.0208" ry="2.0208" fill="#f2f2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.8346" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0 3)">
+  <g transform="translate(270.4,69.763)">
+   <rect x="-268.4" y="-63.763" width="60" height="40" rx="5" ry="5" fill="#4d4d4d"/>
+  </g>
+  <rect x="3" y="7" width="58" height="38" rx="4" ry="3.931" fill="url(#linearGradient898)" stroke-width=".9583"/>
+  <path d="m24.599 41.375 14.5-15.708 12.083 15.708z" fill="#1a1a1a" stroke-width=".11417"/>
+  <path d="m23.512 31.828-19.068 12.246c0.69391 0.57023 1.5772 0.92578 2.5566 0.92578h37.324l-20.812-13.172z" fill="#e6e6e6" opacity=".9" stroke-width=".11417"/>
+  <path d="m19.766 45 3.7458-13.171 20.814 13.171z" fill="#fafbfb" stroke-width=".11417"/>
+  <path d="m39.1 24.459-4.834 5.1348v15.406h22.734c1.0943 0 2.08-0.4299 2.8008-1.125l-20.701-19.416z" fill="#b0b2b5" stroke-width=".030208"/>
+  <path d="m39.098 24.457 6.043 20.543h11.859c1.0943 0 2.08-0.4299 2.8008-1.125l-20.703-19.418z" fill="#ffffff" stroke-width=".11417"/>
+  <path d="m19.766 45 3.7458-13.171 20.814 13.171z" fill="url(#linearGradient873)" stroke-width=".11417"/>
+  <path d="m33.057 37.87v7.1303h1.2083v-6.3654z" fill="url(#linearGradient893)" opacity=".35" stroke-width=".030208"/>
+ </g>
+ <path d="m23.498 53c-0.38343 0-0.76674 0.1476-1.0605 0.44141l-3.5352 3.5352c-0.58761 0.58761-0.58761 1.5335 0 2.1211 0.5876 0.58761 1.5335 0.58761 2.1211 0l3.5352-3.5352c0.5876-0.58761 0.5876-1.5335 0-2.1211-0.2938-0.2938-0.67712-0.44141-1.0605-0.44141zm17.004 0c-0.38343 0-0.76674 0.1476-1.0605 0.44141-0.5876 0.58761-0.5876 1.5335 0 2.1211l3.5352 3.5352c0.58761 0.58761 1.5335 0.58761 2.1211 0 0.58761-0.5876 0.58761-1.5335 0-2.1211l-3.5352-3.5352c-0.2938-0.2938-0.67712-0.44141-1.0605-0.44141z" fill="url(#linearGradient1017)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7947" style="paint-order:stroke fill markers"/>
+ <rect x="20" y="52" width="24" height="3" rx="1.5" ry="1.5" clip-path="url(#clipPath992)" fill="#808080" filter="url(#filter986)" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.5727" style="paint-order:stroke fill markers"/>
+</svg>

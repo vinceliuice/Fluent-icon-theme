@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter854" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.54769498"/>
+  </filter>
+  <clipPath id="clipPath860">
+   <rect x="3.4391" y="1.3229" width="12.171" height="12.171" rx="1.5875" ry="1.5875" fill="#f9f9f9" fill-rule="evenodd" stroke-width=".88462" style="paint-order:fill markers stroke"/>
+  </clipPath>
+ </defs>
+ <rect x="1.3229" y="3.4391" width="12.171" height="12.171" rx="1.5875" ry="1.5875" fill="#498cd8" fill-rule="evenodd" stroke-width=".88462" style="paint-order:fill markers stroke"/>
+ <rect x="3.4391" y="1.3229" width="12.171" height="12.171" rx="1.5875" ry="1.5875" fill="#f9f9f9" fill-rule="evenodd" stroke-width=".88462" style="paint-order:fill markers stroke"/>
+ <rect x="1.3229" y="3.4391" width="12.171" height="12.171" rx="1.5875" ry="1.5875" clip-path="url(#clipPath860)" fill="#498cd8" fill-rule="evenodd" filter="url(#filter854)" opacity=".35" stroke-width=".88462" style="paint-order:fill markers stroke"/>
+ <g transform="matrix(1.2828 0 0 1.2828 -1.0708 -361.94)">
+  <path d="m8.2606 285.81-1.06 2.874h2.123zm-0.441-0.77h0.886l2.2 5.775h-0.812l-0.526-1.482h-2.603l-0.526 1.482h-0.825z" fill="#ffffff" font-size="7.922px" font-weight="400" letter-spacing="0" stroke-width=".198" word-spacing="0" aria-label="A"/>
+ </g>
+</svg>
