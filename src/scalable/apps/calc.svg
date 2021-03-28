@@ -1,17 +1,8 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="filter869" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.57148875"/>
-  </filter>
-  <clipPath id="clipPath880">
-   <rect x="8.2019" y="1.3229" width="7.4082" height="14.287" rx=".79373" ry=".79373" fill="#d35f5f" opacity=".6" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:stroke fill markers"/>
-  </clipPath>
- </defs>
- <rect x="8.2019" y="1.3229" width="7.4082" height="14.287" rx=".79373" ry=".79373" fill="#e6e6e6" opacity=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:stroke fill markers"/>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="8.2019" y="1.3229" width="7.4082" height="14.287" rx=".79373" ry=".79373" fill="#f9f9f9" opacity=".9" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:stroke fill markers"/>
  <path transform="scale(.26458)" d="m11 8c-1.662 0-3 1.338-3 3v42c0 1.662 1.338 3 3 3h20v-48h-20z" fill="#a56ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3846" style="paint-order:stroke fill markers"/>
- <rect x="2.1166" y="2.1166" width="12.7" height="12.7" rx=".79373" ry=".79373" clip-path="url(#clipPath880)" fill="#9447eb" filter="url(#filter869)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".36634" style="paint-order:stroke fill markers"/>
  <path d="m5.027 4.2332v1.3229h-1.3229v0.52916h1.3229v1.3229h0.52916v-1.3229h1.3229v-0.52916h-1.3229v-1.3229z" fill="#ffffff" style="paint-order:stroke markers fill"/>
- <rect x="8.2019" y="1.3229" width="7.4082" height="14.287" rx=".79373" ry=".79373" fill="#ffffff" opacity=".6" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:stroke fill markers"/>
- <path transform="scale(.26458)" d="m39.002 28v1.998h12v-1.998h-12zm0 6.002v1.998h12v-1.998h-12z" fill="#a56ee3" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <image x="8.202" y="1.3229" width="7.4082" height="14.287" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAA2CAYAAADUOvnEAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAotJREFUWIXt2DFuFEEQBdBf1bUz rM2uMMIgkAMg3JQLEFjcAM7DHRCn8BW4AiFkWCAhjLARsKx3dqa76hOMMRFCaBai+VFLrdbrLqmT LwDw9PGr6vZmz5atCgZkXt8icILzM+deXfhu/258OH7Jw/vH8eTocQBCef7w01WtYmcIVKddAsAK K9RG5nUwz3Z9flr8W2zK8mDpCyz8yRFCnj36eE9lmoaAfVoAgHgVrTWRpCrRlcxZ1e74te7kyuuy wCs3VbsB5EFUBpBUiAxIypF4xSGRK6k3qcm6nn7F/P2CL7qGRmA+9G0GACFwFBhSGFjC2cFa81JD vrfR6Znfuf/AjeDuUPAStkQ6CClFRCwiISZeFNZVM003T9+qaWi1LRBwiGqQkgQCFSkWedJIZZPv 5+nLvokRYUMZgRIAAoAwNEShEQaBFWiqi2jamctksxILxaC/1ycEABRCBpEYCpgEQ0AqU6dtmUpt gG3hP1zGAenvrwh1EYhQ+42rAD63KoPH+adoiAAVWj+/mMJ/zgiO4AiO4AiO4AiO4AiO4AiO4AiO 4D8E/XIVSgLtZT1m/ttDfx8FSJACQCMxEIT3GysA8zpoGuBQ6Fdt4hABXTQ0nCogBSFeRV2xf6FA y1DwZxQAREMJF9EikJKQvTHGZL1kd5200Oi2BoqQToqwANIGpSvJckKUPNv1vdOvNIGcbwsspcA0 hcBKMDpVbzTXm45t7pbq7+7cDRNgORTq60tSPYFAOLIjWdZcb1LKDadVO1lfK2+OX9IiytnQgnYC AN4C2he02ZpIQOnYZk4vCtqD136I4zDt9FSrZgsV9LSvoKs1J+tgnqnPl+rf1qtycvDhooJe9KXc /yzZfwBPbH1905JssQAAAABJRU5ErkJggg== "/>
+ <path transform="scale(.26458)" d="m39.002 28v1.998h12v-1.998h-12zm0 6.002v1.998h12v-1.998h-12z" fill="#9655dd" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
  <rect x="3.704" y="11.112" width="3.175" height=".529" ry="0" fill="#ffffff" style="paint-order:stroke markers fill"/>
 </svg>
