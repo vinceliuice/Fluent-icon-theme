@@ -55,11 +55,11 @@ install_theme() {
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
   if [ -z "${brightprefix}" ]; then
-    cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
-    cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/src/{16,22,24,32,64,256,scalable,symbolic}                "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/links/{16,22,24,32,64,256,scalable,symbolic}              "${THEME_DIR}"
     if [ -n "${colorprefix}" ]; then
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/places/*.svg   "${THEME_DIR}/scalable/places"
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/apps/*.svg     "${THEME_DIR}/scalable/apps"
+      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/places/*.svg     "${THEME_DIR}/scalable/places"
+      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/apps/*.svg       "${THEME_DIR}/scalable/apps"
     fi
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
@@ -95,19 +95,25 @@ install_theme() {
     ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
     ln -sr "${STD_THEME_DIR}/24/panel"                                           "${THEME_DIR}/24/panel"
     ln -sr "${STD_THEME_DIR}/32/categories"                                      "${THEME_DIR}/32/categories"
-    ln -sr "${STD_THEME_DIR}/32/stutas"                                          "${THEME_DIR}/32/stutas"
+    ln -sr "${STD_THEME_DIR}/32/status"                                          "${THEME_DIR}/32/status"
+    ln -sr "${STD_THEME_DIR}/64"                                                 "${THEME_DIR}/64"
+    ln -sr "${STD_THEME_DIR}/256"                                                "${THEME_DIR}/256"
   fi
 
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@2x"
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@2x"
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@2x"
+  ln -sr "${THEME_DIR}/64"                                                       "${THEME_DIR}/64@2x"
+  ln -sr "${THEME_DIR}/256"                                                      "${THEME_DIR}/256@2x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
   
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@3x"
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@3x"
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@3x"
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@3x"
+  ln -sr "${THEME_DIR}/64"                                                       "${THEME_DIR}/64@3x"
+  ln -sr "${THEME_DIR}/256"                                                      "${THEME_DIR}/256@3x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@3x"
 
   gtk-update-icon-cache "${THEME_DIR}"
@@ -138,7 +144,7 @@ while [ $# -gt 0 ]; do
   shift
 done
 
-# Default name is 'Tela'
+# Default name is 'Fluent'
 : "${NAME:=Fluent}"
 
 # By default, only the standard color variant is selected
