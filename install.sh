@@ -85,7 +85,6 @@ install_theme() {
 
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
-    ln -sr "${STD_THEME_DIR}/16/apps"                                            "${THEME_DIR}/16/apps"
     ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
     ln -sr "${STD_THEME_DIR}/16/panel"                                           "${THEME_DIR}/16/panel"
     ln -sr "${STD_THEME_DIR}/16/status"                                          "${THEME_DIR}/16/status"
