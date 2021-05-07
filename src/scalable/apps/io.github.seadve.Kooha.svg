@@ -1,0 +1,224 @@
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Adwaita Icon Template</title>
+ <defs>
+  <linearGradient id="linearGradient1078">
+   <stop stop-color="#77767b" offset="0"/>
+   <stop stop-color="#c0bfbc" offset=".035714"/>
+   <stop stop-color="#9a9996" offset=".071365"/>
+   <stop stop-color="#9a9996" offset=".92857"/>
+   <stop stop-color="#c0bfbc" offset=".96429"/>
+   <stop stop-color="#77767b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1044">
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#98c1f1" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1034">
+   <stop stop-color="#98c1f1" offset="0"/>
+   <stop stop-color="#2dc0af" stop-opacity=".1378" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6826">
+   <stop stop-color="#50dbb5" offset="0"/>
+   <stop stop-color="#4a86cf" offset="1"/>
+  </linearGradient>
+  <radialGradient cx="106.67" cy="-60.348" r="225" gradientTransform="matrix(.21429 0 0 .32237 59.657 177.78)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient cx="276.59" cy="218.28" r="225" gradientTransform="matrix(.38857 0 0 .52385 188.18 86.9)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1034"/>
+  <radialGradient cx="317.76" cy="86.748" r="225" gradientTransform="matrix(.38857 0 0 .27573 93.556 -226.94)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1044"/>
+  <linearGradient id="linearGradient1064" x1="88.596" x2="536.6" y1="-449.39" y2="-449.39" gradientTransform="matrix(.125 0 0 .125 160.93 72.174)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1078"/>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <linearGradient osb:paint="solid">
+   <stop stop-color="#000000" offset="0"/>
+  </linearGradient>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <linearGradient>
+   <stop stop-color="#f4f4f2" offset="0"/>
+   <stop stop-color="#ecece9" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="88.596" x2="536.6" y1="-449.39" y2="-449.39" gradientTransform="matrix(.19997 0 0 .19997 1.2205 85.329)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1078"/>
+  <radialGradient cx="106.67" cy="-60.348" r="225" gradientTransform="matrix(.17141 0 0 .25786 19.852 -38.464)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient cx="317.76" cy="86.748" r="225" gradientTransform="matrix(.31082 0 0 .22055 -15.838 9.5093)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1044"/>
+  <radialGradient cx="276.59" cy="218.28" r="225" gradientTransform="matrix(.31082 0 0 .41903 -15.838 -116.48)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1034"/>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <linearGradient>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#484848" offset="1"/>
+  </linearGradient>
+  <clipPath>
+   <g transform="matrix(.99498 0 0 .76745 -1172.1 1905.1)" stroke-width="1.1444">
+    <rect x="1929.1" y="2920.4" width="819" height="715.47" rx="12.061" ry="15.636" fill="#3d3846" stroke="#241f31" stroke-width="1.1367"/>
+   </g>
+  </clipPath>
+  <clipPath>
+   <rect x="302.97" y="232.57" width="121.66" height="76.039" rx="0" ry="1.6049" fill="#f6f5f4" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <clipPath>
+   <g transform="matrix(.99498 0 0 .76745 -1172.1 1905.1)" stroke-width="1.1444">
+    <rect x="1929.1" y="2920.4" width="819" height="715.47" rx="12.061" ry="15.636" fill="#3d3846" stroke="#241f31" stroke-width="1.1367"/>
+   </g>
+  </clipPath>
+  <clipPath>
+   <rect x="302.97" y="232.57" width="121.66" height="76.039" rx="0" ry="1.6049" fill="#f6f5f4" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <linearGradient id="linearGradient1247" x1="-73.969" x2="13.267" y1="139.07" y2="211.4" gradientTransform="matrix(.92065 0 0 .798 -22.069 48.613)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d628f8" offset="0"/>
+   <stop stop-color="#d628f8" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1257" x1="-79.012" x2="4.4483" y1="136.36" y2="204.54" gradientTransform="matrix(.92065 0 0 .798 93.642 -318.01)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff60b3" offset="0"/>
+   <stop stop-color="#ffbee0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1267" x1="11.829" x2="95.886" y1="-150.27" y2="-206.68" gradientTransform="matrix(.92065 0 0 .798 22.069 -48.613)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0207" offset="0"/>
+   <stop stop-color="#ff0207" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient cx="106.67" cy="-60.348" r="225" gradientTransform="matrix(.26646 0 0 .40086 -118.21 222.24)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient cx="276.59" cy="218.28" r="225" gradientTransform="matrix(.48318 0 0 .6514 -198.62 -51.834)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1034"/>
+  <radialGradient cx="317.76" cy="86.748" r="225" gradientTransform="matrix(.48318 0 0 .34286 -198.62 -114.46)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1044"/>
+  <linearGradient x1="88.596" x2="536.6" y1="-449.39" y2="-449.39" gradientTransform="matrix(.24429 0 0 .24429 -133.14 231.91)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1078"/>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <clipPath>
+   <rect x="40.903" y="-101.47" width="91.11" height="5.92" ry="1.4192" fill="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <clipPath>
+   <rect x="990.6" y="-849.7" width="173.3" height="127.26" fill="#1c71d8" stroke-width="0"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-1063.5" y="-28.125" width="370" height="60" color="#bebebe" enable-background="accumulate" fill="#d9dbd9"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <clipPath>
+   <rect x="-239.49" y="1523" width="278.98" height="158.98" rx="8" ry="8" fill="url(#radialGradient13424)" stroke="#9a9996" stroke-linecap="square" stroke-width="1.017"/>
+  </clipPath>
+  <clipPath>
+   <g transform="matrix(.99498 0 0 .76745 -1172.1 1905.1)" stroke-width="1.1444">
+    <rect x="1929.1" y="2920.4" width="819" height="715.47" rx="12.061" ry="15.636" fill="#3d3846" stroke="#241f31" stroke-width="1.1367"/>
+   </g>
+  </clipPath>
+  <clipPath>
+   <rect x="302.97" y="232.57" width="121.66" height="76.039" rx="0" ry="1.6049" fill="#f6f5f4" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <radialGradient cx="106.67" cy="-60.348" r="225" gradientTransform="matrix(.21429 0 0 .32237 9.1429 245.59)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient cx="276.59" cy="218.28" r="225" gradientTransform="matrix(.38857 0 0 .52385 -35.474 148.05)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1034"/>
+  <radialGradient cx="317.76" cy="86.748" r="225" gradientTransform="matrix(.38857 0 0 .27573 -35.474 -281.79)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1044"/>
+  <linearGradient id="linearGradient4185" x1="20.866" x2="-70.115" y1="162.76" y2="219.93" gradientTransform="translate(-32.985 -6.0147)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffb4b5" offset="0"/>
+   <stop stop-color="#ff7879" offset="1"/>
+  </linearGradient>
+  <clipPath>
+   <rect x="80" y="15" width="52" height="38" rx="3" ry="3" fill="#fd4667" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47127"/>
+  </clipPath>
+ </defs>
+ <rect x="172" y="-22" width="56" height="38" rx="4" ry="4" enable-background="new" fill="url(#linearGradient1064)" style="paint-order:normal"/>
+ <text x="-72" y="-168" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-72" y="-132.60938"/></text>
+ <rect x="172" y="-28" width="56" height="42" rx="4" ry="4" enable-background="new" fill="#deddda" style="paint-order:normal"/>
+ <rect x="174" y="-26" width="52" height="38" rx="2" ry="2" enable-background="new" fill="#241f31" style="paint-order:normal"/>
+ <g transform="matrix(.5 0 0 .5 228.93 -98.656)">
+  <rect x="-105.86" y="149.31" width="96" height="68" fill="url(#linearGradient4185)" stroke-linecap="round" stroke-width=".476" style="paint-order:stroke markers fill"/>
+  <rect x="-105.86" y="149.31" width="96" height="68" fill="url(#linearGradient1247)" opacity=".5" style="paint-order:stroke fill markers"/>
+  <rect transform="scale(-1)" x="9.8555" y="-217.31" width="96" height="68" fill="url(#linearGradient1257)" opacity=".5" style="paint-order:stroke fill markers"/>
+  <rect transform="scale(-1)" x="9.8555" y="-217.31" width="96" height="68" fill="url(#linearGradient1267)" opacity=".5" style="paint-order:stroke fill markers"/>
+ </g>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1035.1 235.73)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2022.8 -766.2)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1124.201" y="-251.43066" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-1124.201" y="-225.57916" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -637.8 721.67)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1354.7 603.51)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2342.4 -398.42)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1443.788" y="116.34766" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-1443.788" y="142.19916" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -3293.1 -928.48)" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#2e3436" font-family="Cantarell" font-size="14.667px" font-weight="bold" image-rendering="auto" shape-rendering="auto" stroke="#a7a7a7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" text-align="center" text-anchor="middle" text-rendering="auto" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:110%" xml:space="preserve"><flowRegion><rect x="4166" y="7432" width="268" height="296"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -862.46 -372.76)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="598.92" y="566.91" width="307.59" height="121.62"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -412.81 -505.93)" fill="#000000" font-family="Cantarell" font-size="14.667px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="-221" y="1038" width="714.05" height="85.284"/></flowRegion><flowPara fill="#2e3436" style="line-height:1.25"/></flowRoot>
+ <text x="-752.76221" y="-290.25085" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1554.2 -395.94)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="1026" y="1599.5" width="14.502" height="65.5"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1588.3933" y="600.10626" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1258.3 224.78)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2246 -777.15)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1347.4155" y="-262.38449" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-1347.4155" y="-236.53297" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -861.02 710.72)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1577.9 592.56)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2565.6 -409.37)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1667.0026" y="105.39382" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-1667.0026" y="131.24533" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -3516.3 -939.43)" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#2e3436" font-family="Cantarell" font-size="14.667px" font-weight="bold" image-rendering="auto" shape-rendering="auto" stroke="#a7a7a7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" text-align="center" text-anchor="middle" text-rendering="auto" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:110%" xml:space="preserve"><flowRegion><rect x="4166" y="7432" width="268" height="296"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1085.7 -383.72)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="598.92" y="566.91" width="307.59" height="121.62"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -636.02 -516.89)" fill="#000000" font-family="Cantarell" font-size="14.667px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="-221" y="1038" width="714.05" height="85.284"/></flowRegion><flowPara fill="#2e3436" style="line-height:1.25"/></flowRoot>
+ <text x="-975.97681" y="-301.20468" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1777.4 -406.89)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="1026" y="1599.5" width="14.502" height="65.5"/></flowRegion><flowPara/></flowRoot>
+ <text x="-1811.6079" y="589.1524" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <text x="-376.4263" y="-222.6917" fill="#000000" font-family="sans-serif" font-size="51.506px" letter-spacing="0px" stroke-width="1.2877" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-376.4263" y="-177.12056" stroke-width="1.2877"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2399.8 54.002)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -3387.4 -947.93)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-2488.8721" y="-433.16205" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-2488.8721" y="-407.31052" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2002.5 539.94)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2719.3 421.78)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:45%" xml:space="preserve"><flowRegion style="line-height:45%"><rect x="619.43" y="80.761" width="459.52" height="241.57"/></flowRegion><flowPara font-family="Cantarell" font-size="14.667px" style="line-height:45%"/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -3707 -580.15)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="786" y="780" width="109" height="146"/></flowRegion><flowPara/></flowRoot>
+ <text x="-2808.4587" y="-65.383728" fill="#000000" font-family="sans-serif" font-size="29.218px" letter-spacing="0px" stroke-width=".73046" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-2808.4587" y="-39.532227" stroke-width=".73046"/></text>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -4657.8 -1110.2)" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#2e3436" font-family="Cantarell" font-size="14.667px" font-weight="bold" image-rendering="auto" shape-rendering="auto" stroke="#a7a7a7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" text-align="center" text-anchor="middle" text-rendering="auto" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:110%" xml:space="preserve"><flowRegion><rect x="4166" y="7432" width="268" height="296"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2227.1 -554.49)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="598.92" y="566.91" width="307.59" height="121.62"/></flowRegion><flowPara/></flowRoot>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -1777.5 -687.67)" fill="#000000" font-family="Cantarell" font-size="14.667px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="-221" y="1038" width="714.05" height="85.284"/></flowRegion><flowPara fill="#2e3436" style="line-height:1.25"/></flowRoot>
+ <text x="-2117.4331" y="-471.98227" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <flowRoot transform="matrix(.24162 0 0 .24162 -2918.8 -577.67)" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="1026" y="1599.5" width="14.502" height="65.5"/></flowRegion><flowPara/></flowRoot>
+ <text x="-2953.0642" y="418.37488" fill="#000000" font-family="sans-serif" font-size="9.6646px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+ <rect x="3" y="10" width="52" height="38" rx="4" ry="4" fill="#fd4667" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47127"/>
+ <rect x="9" y="16" width="52" height="38" rx="3" ry="3" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47127"/>
+ <image x="9" y="16" width="51" height="37" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAlCAYAAADvLtGsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAABt0RVh0VGl0bGUAQWR3YWl0YSBJ Y29uIFRlbXBsYXRltbvnPwAAABh0RVh0QXV0aG9yAEdOT01FIERlc2lnbiBUZWFtYI52fgAAAFJ0 RVh0Q29weXJpZ2h0AENDIEF0dHJpYnV0aW9uLVNoYXJlQWxpa2UgaHR0cDovL2NyZWF0aXZlY29t bW9ucy5vcmcvbGljZW5zZXMvYnktc2EvNC4wL8NUYgUAAAHnSURBVFiF7ZkxbtswFIa/R9ERAqhA MjUIMhjZigBZOvQUvZOv0V4hB+jqJWOOkSKd3LixE1Hi+zvYKTzEGdoAYgF9i0RRIP4PfAQB0jSb Ba5vL7PZFNkhJWImHK+Cp16so3FP1oKq+gnNitS0zGc5cn17mQkf0NCJ/xURstl06BhvRSi2tP6C MHSAt2SUKZVRplRGmVIZZUpllCmVUaZURplSGWVKZZQplVGmVP4rmbx9dkC7ff+x01+8TGUmyGCu ykyYCQuqQ9AD8L5e/jm+jJgVfZa5mY0gDCEc4RPJifImynf/jTj+4iilYCZMQp4zIYP3MOmRZ1Ln LJfibCEwYhU8DZ13H5ltmQnPhCxopdgyyYnWOkKVOTpxuAMg9mI9bOTX6dmWF95LsVXs1m3nT3Wt xONhZtE63y4EV8Ro3A8deB8dgJkmksOkZ5JT202e+oPHdZ0OEqx7zlfOzRcZM0WyFkOH3ocDdZCI cuSZ1rq6jqlOB4nVIpGOM/OpwACImwubMqmBB6CJclLnhCrzmDOknnSc+XyauZnJ2NwuRWhWw0Z+ neZ5H1kuxdGJs2id85Uzn2pXBCCSmpZf322wtHu4AT6+OxWp2Xw4Wwju4NOFmH0VXLErAmCbgit6 3+R5Tey0Xgz8GwRi66+9N1hiAAAAAElFTkSuQmCC "/>
+ <path d="m12.496 24.496v-5h5" enable-background="new" fill="none" stroke="#ffffff" stroke-linecap="round"/>
+ <path d="m57.504 24.496v-5h-5" enable-background="new" fill="none" stroke="#ffffff" stroke-linecap="round"/>
+ <path d="m57.504 45.504v5h-5" enable-background="new" fill="none" stroke="#ffffff" stroke-linecap="round"/>
+ <path d="m12.496 45.504v5h5" enable-background="new" fill="none" stroke="#ffffff" stroke-linecap="round"/>
+ <path d="m33 30c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm-2 5-3-4h-1v8h1zm5.9394-4a4 4 0 0 1 0.0606 0 4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 3.9394-4zm0.0117 2a2 2 0 0 0-1.9512 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2 2 2 0 0 0-0.0488 0z" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0016"/>
+</svg>
