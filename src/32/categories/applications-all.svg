@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,17 +9,8 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs>
-  <linearGradient id="linearGradient863" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-384.57,-515.8)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0578ff" offset="0"/>
-   <stop stop-color="#42ccff" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="1" y=".99999" width="30" height="30" rx="8" ry="8" fill="url(#linearGradient863)"/>
- <g fill="#fff" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m7 5c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" opacity=".9"/>
-  <path d="m19 5c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" opacity=".9"/>
-  <path d="m7 17c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" opacity=".9"/>
-  <path d="m19 17c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" opacity=".9"/>
- </g>
+ <path d="m6 3c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3zm0 14c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3zm14 0c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3z" fill="#4598ed" stroke-width="1.8462"/>
+ <path d="m20 3c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3z" fill="#4598ed" opacity=".5" stroke-width="1.8462"/>
+ <circle cx="16" cy="16" r="8" fill="#f9f9f9" stroke-width="2.2857"/>
+ <image x="8" y="8" width="16" height="16" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAfBJREFUOI2lk8FuE0EMhj97ZjYq TdKtRBEX1KpqD9wgLwAvwfvsicdrH4AWiZ5AVCJRd2mzO2Nz2CRElTjxX/xr7LHk3/6FZ6gbr1FO PRHNeQBQYSYDGePbspHlfr3s2CcP8wULKZyLsi7KPQM/AUicBOOlGxPgdpW5ohED0O3no3d8BC4Y X50MBJyw4YoDeOCyTnygcd01mC9YuPIKG4s20aTgUka+nzPl9VFkAaB147UUzqVg4jhKMcgF+l7o +8JQoDfIKEUcl4IhnNP4PKKcirJGcQw3yA4PQWk18cgEZKB1OABQJaIIhhwnzqInogn3ZCBiJdMH pTXnVwcdwKEjKpCNxxCpyCgRSiGOq8q0BFwGvBL6nHjsoOMLPUB3STsFrzqezEkeEAYkFEYl/wdR hZklDsjgCeszfRhoDx3pLmkBDjtmUlH3keluhARF+R3VGER4QxxFFCU7HKjAlHF1UlEDJ1GZqRGJ o4gRvkYfuPPIW2xzmkqBUTDreAKYRKauzAReuBG2tWTudHPbtx5QFwQjKMQAVRVIVSAZVAoRI7gg HlACN8tGlgqwylyp8R3deGOM6gHxMPL9nGR+rNZcw76Z3OXoM++BCxH6f5opcLNac701098GWzQ+ P06crZUU1qOdy4TZxBh84O65nf8AigT0W2jUY4gAAAAASUVORK5CYII= "/>
 </svg>

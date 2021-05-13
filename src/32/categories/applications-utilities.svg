@@ -14,13 +14,6 @@
    <stop stop-color="#ebf1f1" offset="0"/>
    <stop stop-color="#fcfcfc" offset="1"/>
   </linearGradient>
-  <linearGradient id="b" x1="16" x2="16" y1="4" y2="11" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fdfefe" offset="0"/>
-   <stop stop-color="#dfe4e6" offset="1"/>
-  </linearGradient>
-  <filter id="j" x="-.04125" y="-.11" width="1.0825" height="1.22" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.275"/>
-  </filter>
   <linearGradient id="e" x1="7.5" x2="7.5" y1="12" y2="17" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="d" x1="7.5" x2="7.5" y1="12" y2="17" gradientTransform="translate(17)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <filter id="i" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
@@ -39,15 +32,17 @@
   </linearGradient>
  </defs>
  <rect x="1" y=".99997" width="30" height="30" rx="8" ry="8" fill="url(#linearGradient863)"/>
- <g stroke-linecap="square" stroke-width=".1">
-  <path d="m11 4c-1.662 0-3 1.338-3 3v3h2v-3c0-0.55401 0.44598-1 1-1h10c0.55402 0 1 0.44599 1 1v3h2v-3c0-1.662-1.338-3-3-3h-10z" filter="url(#j)" opacity=".25"/>
-  <path d="m11 4c-1.662 0-3 1.338-3 3v3h2v-3c0-0.55401 0.44598-1 1-1h10c0.55402 0 1 0.44599 1 1v3h2v-3c0-1.662-1.338-3-3-3h-10z" fill="url(#b)"/>
- </g>
+ <image x="1.5" y="10" width="29" height="21" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAVCAYAAAC6wOViAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAOZJREFUSInt1VFrwjAYheH3024O Rbwf+/+/bHi7DbFUTXt20ZNZRYaWXHjRD0Jom56nSQgNSXNgDbwDH8AGqChXCfgBPoEtsJsVDL+7 JnRCJ3RCnw/VVV+6LvKHaOtelMOHeTmf2eDGya0rBOZqgaOzW0CV0QTUwB5Y+WNK/N4ScHB27WtV ESFJGf0CXv3CwniMwES/Ygfg27k1kCJCeTYd0PghHryin208COc9PBnKaGPnHCYpL+kbsHT/wrhj 1RltDDf0s7xEDQfn/Zy7jV3e1i0BXUT8nYibgcbjvzF3oAAaYrl+AVhWXTjmmTJTAAAAAElFTkSu QmCC "/>
+ <path d="m16 1a15 15 0 0 0-13.74 9h27.469a15 15 0 0 0-13.729-9z" fill="url(#c)" opacity=".35" style="paint-order:fill markers stroke"/>
  <g fill-rule="evenodd">
   <path d="m7.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" filter="url(#i)" opacity=".25" style="paint-order:normal"/>
   <path d="m7.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="url(#e)" style="paint-order:normal"/>
   <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" filter="url(#h)" opacity=".25" style="paint-order:normal"/>
   <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="url(#d)" style="paint-order:normal"/>
  </g>
- <path d="m16 1a15 15 0 0 0-13.74 9h27.469a15 15 0 0 0-13.729-9z" fill="url(#c)" opacity=".35" style="paint-order:fill markers stroke"/>
+ <g fill="#fff">
+  <path d="m9 4c-2.77 0-5 2.23-5 5v1h24v-1c0-2.77-2.23-5-5-5h-14z" opacity=".35" stroke-width="2.087"/>
+  <path d="m9 6c-1.662 0-3 1.338-3 3v1h20v-1c0-1.662-1.338-3-3-3h-14z" opacity=".35" stroke-width="1.7391"/>
+  <path d="m9 8c-0.554 0-1 0.446-1 1v1h16v-1c0-0.554-0.446-1-1-1h-14z" opacity=".35" stroke-width="1.3913"/>
+ </g>
 </svg>
