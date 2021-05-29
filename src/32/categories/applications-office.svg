@@ -9,37 +9,27 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs>
-  <linearGradient id="linearGradient863" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-384.57 -515.8)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d3d3d3" offset="0"/>
-   <stop stop-color="#fcf9f9" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="1" y=".99997" width="30" height="30" rx="8" ry="8" fill="url(#linearGradient863)"/>
- <g transform="matrix(1 0 0 1 -.47961 -16.056)">
+ <path d="m5.5174 4.4e-4c-1.8339 3.5309e-6 -3.3103 1.4764-3.3103 3.3103v22.068c0 1.8339 1.4764 3.3103 3.3103 3.3103h17.655c1.8339 0 3.3103-1.4764 3.3103-3.3103l-2.06e-4 -16.551-8.8274-8.8274z" fill="#5984eb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2666" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(-90)" x="-32" y="12.138" width="17.655" height="17.655" rx="8.8274" ry="8.8274" fill="#f9f9f9" stroke-width="1.2357"/>
+ <path d="m26.483 8.8278-8.8274-8.8274v5.5171c0 1.8339 1.4764 3.3103 3.3103 3.3103z" fill="#fff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82756" style="paint-order:stroke fill markers"/>
+ <image x="14.897" y=".00044" width="11.586" height="12.138" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAWCAYAAAAvg9c4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAMVJREFUOI2llOsOwyAIhY+2e//3 3VLdn5Idz8BbSYhWwidYIKGVRPuKTckdW+rYpqHJ2W+BvUgVuAxW6GOgB30MZKgCRt9dOchJdVui 9B+BvR/FGpXcNNQDbkV9BpHyZRVAGXCallaogb1nKeocXexBTSz9DOC619oBX7c20Ip/p0yrZ2d5 AfgAeGukBb9Uo7rtjcQTQNbJZOkepPYMwGQVaPocrZ1ltOU1lKjHLWKtVW/mDqF8zpBo8CxB1bY0 tWbbb6lNv5crG3xcbYlgAAAAAElFTkSuQmCC "/>
+ <image x="12.138" y="14.345" width="17" height="17" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAaRJREFUOI2llLFuE0EQhv9/9uzz yaIgBQaUpCAdqf0APEQEocpLUKJsBBEPQoX8EtS0yFIqN0hRLIIQxhef725mKIKNc5ETIF+1q535 dlY7u0SDGF1O0rNteNgSkw2DdcSlgmhObZ1KVo7ev3qYr+ZwdbJ/PO6JSd+Ie005ANDgThYG/fzh 9YMRQAcAWQS8fDd+QsizdYI/u6pIkM0X8fwR4FxK9o/HPVP23a9WdhMeLDuISAFAYnQRkz5BuS2x SY6vCeCUk/Rs+7Yj3ESMoMDD1v8KFoiYbNxZ4rT0zhKa1P+cVQOYr0ggmq8NbmAiboR74tZO3Tpd cwBIqK1TQO//jYQCo0ulYGkaqjJcGHCERLJyVFfJDle69xqqMMKDo9IEU1acGuYFJpsa4+Fl2z5/ M94hZO1VM8AdwQArWXPqqX1vif4oPvWKwYD6u82de2+/PU5ry5qCENwLAG24WbtV2WxeJF2Zfcl7 84+RNXDlFTsPIlLJzltN0c+Ze6drXoTKMJkohk91MKAuK71evDNGcDgcLNd2d/f8cnSEGA998QUs +AUDe7lT+cicrwAAAABJRU5ErkJggg== "/>
+ <g transform="matrix(.56178 0 0 .56178 11.926 4.7303)" fill="#fff">
   <g transform="translate(-46.755 .40346)">
-   <g transform="translate(-400.92,-509.18)">
-    <g transform="translate(-47.017,-3.1738)">
-     <g transform="translate(.41988 .034845)"></g>
-    </g>
-   </g>
+   <g transform="translate(-400.92,-509.18)" fill="#fff"></g>
   </g>
   <g transform="translate(-47.291)">
-   <g transform="translate(0 .2655)">
-    <g transform="matrix(.80911 0 0 .80911 36.38 9.7382)">
+   <g transform="translate(0 .2655)" fill="#fff">
+    <g transform="matrix(.80911 0 0 .80911 36.38 9.7382)" fill="#fff">
      <g transform="translate(-46.755 .40346)">
-      <g transform="translate(-400.92,-509.18)">
-       <g transform="translate(-47.017,-3.1738)">
-        <g transform="translate(.41988 .034845)"></g>
-       </g>
-      </g>
+      <g transform="translate(-400.92,-509.18)" fill="#fff"></g>
      </g>
-     <g transform="matrix(1.9988,0,0,1.9988,18.097,-2059.5)" fill="#3d434a">
-      <g transform="translate(-401.01,510.63)" fill="#3d434a">
-       <g transform="translate(5.0558,-5.2511)" fill="#3d434a">
-        <g transform="translate(-11.317,5.8825)" fill="#3d434a" stroke="#000" stroke-opacity=".8">
-         <g transform="matrix(.78637 0 0 .78395 93.326 112.35)" fill="#3d434a" stroke="none">
-          <path id="Documents" d="m409 531-5.244 6.7328c-0.98326 1.2624-0.708 3.5111 0.5505 4.4974 1.2585 0.98629 3.5003 0.71019 4.4835-0.55221l5.8995-7.5744c0.65551-0.8416 0.47201-2.3407-0.36699-2.9983-0.83901-0.65753-2.3335-0.47347-2.989 0.36814l-5.244 6.7328c-0.32776 0.4208-0.236 1.1704 0.1835 1.4991 0.4195 0.32875 1.1668 0.23673 1.4945-0.18407l4.5885-5.8912 0.83901 0.65753-4.5885 5.8912c-0.65551 0.84161-2.15 1.0257-2.989 0.36814-0.83901-0.65753-1.0225-2.1567-0.36702-2.9983l5.244-6.7328c0.98325-1.2624 3.225-1.5385 4.4835-0.55221s1.5338 3.235 0.55051 4.4974l-0.6555 0.84161-5.244 6.7328c-1.311 1.6832-4.3 2.0514-5.978 0.73629-1.678-1.3151-2.045-4.3133-0.73401-5.9965l5.244-6.7328 0.83901 0.65753z" fill="#3d434a"/>
+     <g transform="matrix(1.9988,0,0,1.9988,18.097,-2059.5)">
+      <g transform="translate(-401.01,510.63)" fill="#fff">
+       <g transform="translate(5.0558,-5.2511)" fill="#fff">
+        <g transform="translate(-11.317,5.8825)" fill="#fff" stroke="#000" stroke-opacity=".8">
+         <g transform="matrix(.78637 0 0 .78395 93.326 112.35)" fill="#fff" stroke="none">
+          <path id="Documents" d="m409 531-5.244 6.7328c-0.98326 1.2624-0.708 3.5111 0.5505 4.4974 1.2585 0.98629 3.5003 0.71019 4.4835-0.55221l5.8995-7.5744c0.65551-0.8416 0.47201-2.3407-0.36699-2.9983-0.83901-0.65753-2.3335-0.47347-2.989 0.36814l-5.244 6.7328c-0.32776 0.4208-0.236 1.1704 0.1835 1.4991 0.4195 0.32875 1.1668 0.23673 1.4945-0.18407l4.5885-5.8912 0.83901 0.65753-4.5885 5.8912c-0.65551 0.84161-2.15 1.0257-2.989 0.36814-0.83901-0.65753-1.0225-2.1567-0.36702-2.9983l5.244-6.7328c0.98325-1.2624 3.225-1.5385 4.4835-0.55221s1.5338 3.235 0.55051 4.4974l-0.6555 0.84161-5.244 6.7328c-1.311 1.6832-4.3 2.0514-5.978 0.73629-1.678-1.3151-2.045-4.3133-0.73401-5.9965l5.244-6.7328 0.83901 0.65753z" fill="#fff"/>
          </g>
         </g>
        </g>

@@ -1,21 +1,24 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <filter id="filter866" x="-.10385" y="-.1125" width="1.2077" height="1.225" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.59529938"/>
-  </filter>
-  <clipPath id="clipPath872">
-   <rect x=".52916" y="7.4082" width="15.875" height="8.4665" rx="2.6458" ry="2.6458" fill="#f9f9f9" opacity=".9" stroke-width="0" style="paint-order:stroke fill markers"/>
-  </clipPath>
- </defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <path transform="scale(.26458)" d="m11.996 7.998c-3.3229 0-5.998 2.6752-5.998 5.998v16.008c1.6707-1.2539 3.743-2.0039 6.002-2.0039h40c2.2574 0 4.328 0.7496 5.998 2.002v-16.006c0-3.3229-2.6752-5.998-5.998-5.998h-40.004z" fill="#38a0d4" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
  <rect x="3.704" y="3.704" width="9.525" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
  <rect x="3.704" y="5.5561" width="4.233" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
  <rect x="8.996" y="5.5561" width="4.233" height="1.058" ry=".529" opacity=".35" paint-order="markers stroke fill"/>
  <rect x=".52916" y="7.4082" width="15.875" height="8.4665" rx="2.6458" ry="2.6458" fill="#f9f9f9" opacity=".9" stroke-width="0" style="paint-order:stroke fill markers"/>
- <rect x="1.587" y="2.116" width="13.758" height="12.7" rx="1.5869" ry="1.5869" clip-path="url(#clipPath872)" fill="#38a0d4" filter="url(#filter866)" opacity=".35" stroke-width=".99999" paint-order="stroke markers fill"/>
  <image x=".52916" y="7.4082" width="15.875" height="8.4665" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAgCAYAAABO6BuSAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABBhJREFUWIXtmc9uHEUQh39V1TPr dbIY21miKMnFoIBy4GKEhCIkPwBXc+HGAR4j+xqRIEcO8UMkhyBOhlOC4kMkFBRIrNgyG3s90131 42Ab/CcEhEi8MfkOo+meGqk+1XSP1CV4FqRcuX7vnEtzkSKzpjZJsnpm7JggIjmATXhZM3YefPv5 u79AhEfiDk989NWdGWi8xySzpHQEYRomlDgSO04IlaFOQl2EjRQ+sQ5/vP3Z++v743T/4OPr3/e1 tjlodF9uui8AjS69fnv+m3tnDkzv3Vz5+navFXnz5Wf2YknN1vTCjTun98YKAAuDm4lV79Wv6l/Q bpfJhcHNBOwKD8/16uNN6cWz56gYDHS7dPXvXnjV2S5dxWCgunj56ljvvv8li5eviq72j/6aTiqr fYgOV5b/N8LDlWU58Wv3MK+FTzqvhU86r4VPOq+FTzoHhDXVRM4QTYQDUB45Ihl7lIRjxyHnHScA 1pslsCtsvbIj1gDFEkspELUdaT+uzP8Fu/mKGkspKJaIZu/hIwC7wtV0n1ackoISpIqGsFDUCFUC cTwC/5TYvahSlHSWHYcgrVuFFWc13ScApN6lIYcrD9FMnAoNeFTuFdQ9EMJCUBlKMgQGYPyWfcAF ECUlhCCoomGE5yq8tB5h3cDDh+hdGjL1VxfYbH5H8zqaCXG4FooXhhSYFFhIuEIFEhHyxzdux6u5 f6mJKiOEauGAFHoUKgvdirN4Z5ORurPRX51nWroLvvNhP2bX4MhtVkrrQGtiDRFKCEyDFAghgnCB peMT3cMAeAHUKBo0goQUAVoVa5ylVUobojm/Ufuva4W3fgITBuDUtY0YdSuf0DpXEk1WGwGhUhRB D6imiFATEyYIMCabdzIIbaegokGPomINUowAG1XBpqXmUWz5VCcHBmAChHPTN2J1s++j6kKO2NqW XKtXAaCEKXJRJC0wj1ZTSmCUsTg0EE0s3kJFIwyewOIsLWAjyboV1m6LTebzM6mcfvpDLOMD7iZO mb+2nOrps6ldb+tO92lHkSaySyeEtRiTZjWqSPIiqADguDsvGcg7v1GJllGZ06Uopa2MTaBsN6PT TT39qG3X67L85XwBhH9WajDQ+XOfWD3dpmj7Fb1UjKjAqEySpdrUR1nRAaK0Y1FhTTXRAKVbhbUe zuIQzaKaxVLWejW363VZ/mK+7PWZDia+K92rh7ZmM9bVSat+G1l7qtKOj9STjYXoYaw4G+tGvZkj v9H1UWz5+TOT5fGDjdgvCzyjmQZQFm8s6f31Od24OKUXHiUZtk80dysBAB+uCfDWy7N5Lo9hvRkC QDXK7NWz8fPZwqkHGzE3fT+WPl0M4GAH8TkVo2AAWbwMWe3fkuFKbyyru0fv0pD91QUu3QUxAA+L 7vE7hPFBnaw1K4EAAAAASUVORK5CYII= "/>
- <rect x="4.233" y="9.26" width="8.467" height=".529" ry=".265" fill="#ffffff" opacity=".5" paint-order="stroke markers fill"/>
- <circle cx="6.615" cy="9.525" r="1.058" fill="#ffffff" paint-order="markers stroke fill"/>
- <rect x="4.233" y="11.906" width="8.467" height=".529" ry=".265" fill="#ffffff" opacity=".5" paint-order="stroke markers fill"/>
- <circle cx="10.054" cy="12.17" r="1.058" fill="#ffffff" paint-order="markers stroke fill"/>
+ <g fill="#fff">
+  <rect x="4.233" y="9.26" width="8.467" height=".529" ry=".265" opacity=".5" paint-order="stroke markers fill"/>
+  <circle cx="6.615" cy="9.525" r="1.058" paint-order="markers stroke fill"/>
+  <rect x="4.233" y="11.906" width="8.467" height=".529" ry=".265" opacity=".5" paint-order="stroke markers fill"/>
+  <circle cx="10.054" cy="12.17" r="1.058" paint-order="markers stroke fill"/>
+ </g>
 </svg>

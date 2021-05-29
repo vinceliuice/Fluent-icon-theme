@@ -9,18 +9,11 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <defs>
-  <linearGradient id="a" x1="16" x2="16" y1="30" y2="2" gradientTransform="matrix(1.5,0,0,1.5,409.47,507)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2a2c2f" offset="0"/>
-   <stop stop-color="#424649" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient863" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-384.57 -515.8)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d3d3d3" offset="0"/>
-   <stop stop-color="#fcf9f9" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="1" y=".99997" width="30" height="30" rx="8" ry="8" fill="url(#linearGradient863)"/>
- <g transform="matrix(1 0 0 1 -417.57 -514.8)">
-  <path d="m433.47 528c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm-7.5 0c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm15 0c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3z" fill="url(#a)"/>
+ <rect x="1" y=".99997" width="30" height="30" rx="8" ry="8" fill="#808080"/>
+ <image x="2" y="2" width="28" height="28" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAYNJREFUSIntlutuwjAMRo97YdoE k/b+bznQxujF+1EbTEiggIY0iUhRItX5jpM2/SwUmqqKTaUUk1vmExHRXMCJmIG8V2F+Cayhjz5P wUciBquABqiB1sYqjS0AR2AAOht7YIzQvYjBHPICvNoYoedahP0A3zZ2wODQJtlZC7wBS2Bl0MWV wJ3B1sAG+JoQOoqINmGnte1oCXwA7wZsue5IOwO69mBdAW3CR9IYYGWwlSVQz4BF6CLAetvxDhhU VfyBH6e/u/j+IqwE1kxMn+h0wJgeaWsZ+ocy5zqkiVRntI7umQfOvQaXEsjpSRUCPCjCboHGtVFv v8OHtifwCfw/wGicbp5w/Mua2+LaqKcOjDD/s0foLa2kp3GHbp47Do4dszuXQFpe5LQOBszBx9yp o59da09DorM17RGgERFVVWWyE3fq6Ge3GvCnaW1NR6Pjx8w2AXZvibE2zf2R/lURtbV+UkSVysSa 6VjvKRN7m+fLxAT6mEI4A74Yl4FOCwql/i+hm88LVy+0bwAAAABJRU5ErkJggg== "/>
+ <g fill="#fff" stroke-width="1.7143">
+  <circle cx="8" cy="16" r="3" opacity=".5"/>
+  <circle cx="16" cy="16" r="3" opacity=".75"/>
+  <circle cx="24" cy="16" r="3"/>
  </g>
 </svg>
