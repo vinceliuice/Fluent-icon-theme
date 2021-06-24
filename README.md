@@ -7,12 +7,12 @@ A Fluent design icon theme
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
-|  OPTIONS: |                                                                               |
-|:----------|:------------------------------------------------------------------------------|
-| -a        | Install all color versions                                                    |
-| -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n        | Specify theme name (**Default:** _Fluent_)                                    |
-| -h        | Show this help                                                                |
+|  OPTIONS:  |                                                                               |
+|:-----------|:------------------------------------------------------------------------------|
+| -a, --all  | Install all color versions                                                    |
+| -d, --dest | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
+| -n, --name | Specify theme name (**Default:** _Fluent_)                                    |
+| -h, --help | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |
 |:----------------|:--------------------------------------|
@@ -23,6 +23,6 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | pink            | Pink color folder version             |
 | purple          | Purple color folder version           |
 | red             | Red color folder version              |
-| yellow          | yellow color folder version           |
+| yellow          | Yellow color folder version           |
 
 By default, only **the standard one** is selected.
