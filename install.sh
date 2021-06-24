@@ -11,13 +11,15 @@ readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 readonly COLOR_VARIANTS=("standard" "green" "grey" "orange" "pink" "purple" "red" "yellow")
 readonly BRIGHT_VARIANTS=("" "dark")
 
+readonly DEFAULT_NAME="Fluent"
+
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
-  printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
-  printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
-  printf "  %-25s%s\n"   "-h"       "Show this help"
+  printf "  %-25s%s\n"   "-a, --all"       "Install all color folder versions"
+  printf "  %-25s%s\n"   "-d, --dest DIR"  "Specify theme destination directory (Default: ${DEST_DIR})"
+  printf "  %-25s%s\n"   "-n, --name NAME" "Specify theme name (Default: ${DEFAULT_NAME})"
+  printf "  %-25s%s\n"   "-h, --help"      "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
   printf "  %-25s%s\n"   "green"    "Green color folder version"
@@ -119,32 +121,38 @@ install_theme() {
 }
 
 while [ $# -gt 0 ]; do
-  if [[ "$1" = "-a" ]]; then
-    colors=("${COLOR_VARIANTS[@]}")
-  elif [[ "$1" = "-d" ]]; then
-    DEST_DIR="$2"
-    shift
-  elif [[ "$1" = "-n" ]]; then
-    NAME="$2"
-    shift
-  elif [[ "$1" = "-h" ]]; then
-    usage
-    exit 0
-  # If the argument is a color variant, append it to the colors to be installed
-  elif [[ " ${COLOR_VARIANTS[*]} " = *" $1 "* ]] && \
-       [[ "${colors[*]}" != *$1* ]]; then
-    colors+=("$1")
-  else
-    echo "ERROR: Unrecognized installation option '$1'."
-    echo "Try '$0 -h' for more information."
-    exit 1
-  fi
+  case "${1}" in
+    -a|--all)
+      colors=("${COLOR_VARIANTS[@]}")
+      ;;
+    -d|--dest)
+      DEST_DIR="${2}"
+      shift
+      ;;
+    -n|--name)
+      NAME="${2}"
+      shift
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      # If the argument is a color variant, append it to the colors to be installed
+      if [[ " ${COLOR_VARIANTS[*]} " = *" ${1} "* ]] && [[ "${colors[*]}" != *${1}* ]]; then
+        colors+=("${1}")
+      else
+        echo "ERROR: Unrecognized installation option '${1}'."
+        echo "Try '${0} --help' for more information."
+        exit 1
+      fi
+  esac
 
   shift
 done
 
 # Default name is 'Fluent'
-: "${NAME:=Fluent}"
+: "${NAME:="${DEFAULT_NAME}"}"
 
 # By default, only the standard color variant is selected
 for color in "${colors[@]:-standard}"; do
