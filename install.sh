@@ -121,26 +121,32 @@ install_theme() {
 }
 
 while [ $# -gt 0 ]; do
-  if [[ "$1" = "-a" ]]; then
-    colors=("${COLOR_VARIANTS[@]}")
-  elif [[ "$1" = "-d" ]]; then
-    DEST_DIR="$2"
-    shift
-  elif [[ "$1" = "-n" ]]; then
-    NAME="$2"
-    shift
-  elif [[ "$1" = "-h" ]]; then
-    usage
-    exit 0
-  # If the argument is a color variant, append it to the colors to be installed
-  elif [[ " ${COLOR_VARIANTS[*]} " = *" $1 "* ]] && \
-       [[ "${colors[*]}" != *$1* ]]; then
-    colors+=("$1")
-  else
-    echo "ERROR: Unrecognized installation option '$1'."
-    echo "Try '$0 -h' for more information."
-    exit 1
-  fi
+  case "${1}" in
+    -a|--all)
+      colors=("${COLOR_VARIANTS[@]}")
+      ;;
+    -d|--dest)
+      DEST_DIR="${2}"
+      shift
+      ;;
+    -n|--name)
+      NAME="${2}"
+      shift
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      # If the argument is a color variant, append it to the colors to be installed
+      if [[ " ${COLOR_VARIANTS[*]} " = *" ${1} "* ]] && [[ "${colors[*]}" != *${1}* ]]; then
+        colors+=("${1}")
+      else
+        echo "ERROR: Unrecognized installation option '${1}'."
+        echo "Try '${0} --help' for more information."
+        exit 1
+      fi
+  esac
 
   shift
 done
