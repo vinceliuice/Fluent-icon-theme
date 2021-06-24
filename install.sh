@@ -11,12 +11,14 @@ readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 readonly COLOR_VARIANTS=("standard" "green" "grey" "orange" "pink" "purple" "red" "yellow")
 readonly BRIGHT_VARIANTS=("" "dark")
 
+readonly DEFAULT_NAME="Fluent"
+
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
+  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: ${DEFAULT_NAME})"
   printf "  %-25s%s\n"   "-h"       "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
@@ -144,7 +146,7 @@ while [ $# -gt 0 ]; do
 done
 
 # Default name is 'Fluent'
-: "${NAME:=Fluent}"
+: "${NAME:="${DEFAULT_NAME}"}"
 
 # By default, only the standard color variant is selected
 for color in "${colors[@]:-standard}"; do
