@@ -11,7 +11,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |:----------|:------------------------------------------------------------------------------|
 | -a        | Install all color versions                                                    |
 | -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n        | Specify theme name (**Default:** _Tela_)                                      |
+| -n        | Specify theme name (**Default:** _Fluent_)                                    |
 | -h        | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |
