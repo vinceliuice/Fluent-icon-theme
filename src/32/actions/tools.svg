@@ -1,8 +1,6 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#363636;
-        }
-    </style>
-    <path fill="currentColor" class="ColorScheme-Text" d="M10 5v3H2v6h28V8h-8V5zm1 1h10v2H11zm-9 9v12h28V15h-9v3H11v-3zm10 0v2h8v-2z"/>
+        }</style>
+ <path d="m12 5c-1.108 0-2 0.892-2 2v1h-5c-1.662 0-3 1.338-3 3v14c0 1.662 1.338 3 3 3h22c1.662 0 3-1.338 3-3v-14c0-1.662-1.338-3-3-3h-5v-1c0-1.108-0.892-2-2-2h-8zm0 1h8c0.554 0 1 0.446 1 1v1h-10v-1c0-0.554 0.446-1 1-1zm-7 3h22c1.108 0 2 0.892 2 2v3h-4c0-0.554-0.446-1-1-1h-3c-0.554 0-1 0.446-1 1h-8c0-0.554-0.446-1-1-1h-3c-0.554 0-1 0.446-1 1h-4v-3c0-1.108 0.892-2 2-2zm3 5h3v1h-3v-1zm13 0h3v1h-3v-1zm-18 1h4c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1h8c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1h4v10c0 1.108-0.892 2-2 2h-22c-1.108 0-2-0.892-2-2v-10z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

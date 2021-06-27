@@ -1,12 +1,12 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#363636;
-        }
-    </style><g transform="translate(1,1)">
-    <g class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd">
-        <path d="m3 3v16h16v-16zm1 1h14v14h-14z"/>
-        <path d="m6.5 5.7929688-.7070312.7070312 3.5 3.5c-1.1666667 1.166667-2.3333336 2.333333-3.5 3.5l.7070312.707031c1.4023444-1.402343 2.8046874-2.804687 4.207031-4.207031-1.4023437-1.4023437-2.8046873-2.8046875-4.207031-4.2070312z"/>
-        <path d="m10 15h6v1h-6z"/>
-    </g>
-</g></svg>
+        }</style>
+ <g transform="translate(1,1)">
+  <g class="ColorScheme-Text" fill="currentColor">
+   <path d="m6.5 5.793-0.70703 0.70703 3.5 3.5c-1.1667 1.1667-2.3333 2.3333-3.5 3.5l0.70703 0.70703c1.4023-1.4023 2.8047-2.8047 4.207-4.207-1.4023-1.4023-2.8047-2.8047-4.207-4.207z"/>
+   <path d="m10 15h6v1h-6z"/>
+  </g>
+ </g>
+ <path d="m5 4c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h14c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-14zm0 1h14c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+</svg>
