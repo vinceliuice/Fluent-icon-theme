@@ -1,8 +1,18 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.04 0 0 1.04 -.339 -291.61)" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#d35f5f"/>
- </g>
- <g fill="#fff" aria-label="T">
-  <path d="m5.2032 4.6089h6.5266v0.87848h-2.7388v6.8367h-1.049v-6.8367h-2.7388z" fill="#fff" stroke-width=".26458"/>
+ <defs>
+  <clipPath id="clipPath1143">
+   <path d="m4.2327 15.875c-1.1724 0-2.1161-0.94368-2.1161-2.1161v-9.5258c0-1.1724 0.94368-2.1161 2.1161-2.1161h9.5258c1.1724 0 2.1161 0.94368 2.1161 2.1161v6.8795l-4.7624 4.7624z" fill="#f9f9f9" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
+  </clipPath>
+  <filter id="filter1137" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61911718"/>
+  </filter>
+ </defs>
+ <rect x="1.0583" y="1.0583" width="13.758" height="13.758" rx="2.1163" ry="2.1163" fill="#d35f5f" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
+ <path d="m4.2327 15.875c-1.1724 0-2.1161-0.94368-2.1161-2.1161v-9.5258c0-1.1724 0.94368-2.1161 2.1161-2.1161h9.5258c1.1724 0 2.1161 0.94368 2.1161 2.1161v6.8795l-4.7624 4.7624z" fill="#f9f9f9" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
+ <rect x="1.0583" y="1.0583" width="13.758" height="13.758" rx="2.1163" ry="2.1163" clip-path="url(#clipPath1143)" fill="#d35f5f" filter="url(#filter1137)" opacity=".35" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
+ <path d="m15.875 11.112-4.7624 4.7624v-2.6463c0-1.1724 0.94368-2.1161 2.1161-2.1161z" fill="#ffffff" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
+ <path d="m4.2332 2.9104c-0.73288 0-1.3229 0.59001-1.3229 1.3229v9.5248c0 0.73288 0.59001 1.3229 1.3229 1.3229h6.879v-0.26458h-6.879c-0.58631 0-1.0583-0.47201-1.0583-1.0583v-9.5248c0-0.58631 0.47201-1.0583 1.0583-1.0583h9.5248c0.5863 0 1.0583 0.47201 1.0583 1.0583v6.879h0.26458v-6.879c0-0.73288-0.59001-1.3229-1.3229-1.3229z" fill="#ffffff" stroke-linecap="square" stroke-width=".62413"/>
+ <g transform="translate(.52916 .52917)" fill="#ffffff" aria-label="T">
+  <path d="m5.2032 4.6089h6.5266v0.87848h-2.7388v6.8367h-1.049v-6.8367h-2.7388z" fill="#ffffff" stroke-width=".26458"/>
  </g>
 </svg>
