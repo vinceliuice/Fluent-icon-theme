@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6.0977 2.7129a1.0001 1.0001 0 0 0-0.80469 0.28906l-1.9961 1.998h-1.2969c-1.0907 0-2 0.9093-2 2v2c0 1.0907 0.9093 2 2 2h1.2969l1.9961 1.998a1.0001 1.0001 0 0 0 1.707-0.70703v-8.582a1.0001 1.0001 0 0 0-0.61719-0.92383 1.0001 1.0001 0 0 0-0.28516-0.072266zm-0.097656 0.99609v8.582l-2.2891-2.291h-1.7109c-0.554 0-1-0.446-1-1v-2c0-0.554 0.446-1 1-1h1.7109z" color="#000000" fill="#363636" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+ <rect x="12" y="3" width="1" height="10" rx="0" ry="0" fill="#363636" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <rect x="15.002" y="1" width="1" height="14" rx="0" ry="0" fill="#363636" fill-rule="evenodd" stroke-width="1.0801" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="5" width="1" height="6" rx="0" ry="0" fill="#363636" fill-rule="evenodd" stroke-width=".7746" style="paint-order:stroke fill markers"/>
+</svg>

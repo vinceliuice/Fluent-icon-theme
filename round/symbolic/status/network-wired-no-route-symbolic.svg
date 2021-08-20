@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-.25273 1.1831)" fill="#363636" stroke-linecap="square" stroke-width="2.6667" style="paint-order:stroke fill markers" aria-label="">
+  <path transform="translate(.25273 -1.1831)" d="m12 0c-0.554 0-1 0.446-1 1v5c0 0.045078 0.0079 0.087393 0.01367 0.13086 0.14887-0.084713 0.317-0.12977 0.48828-0.13086 0.37809 7.13e-4 0.72345 0.21458 0.89258 0.55273l0.22266 0.44727h0.38281v0.76367l1 2v-2.7637h1c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm-10 1c-1.108 0-2 0.892-2 2v7c0 1.108 0.89614 1.9043 2 2h3v2h-1.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h2.8828l0.5-1h-0.88281v-2h1.8828l0.5-1h-6.3828c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1h7.5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-3zm10 0h3v1h-3zm0 2h3v3h-3z"/>
+  <path d="m11.253 11.817v-2h1v2zm0 2v-1h1v1zm-4 1 4.5-9 4.5 9zm1.4141-0.875h6.1719l-3.0859-6.1719z" color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="-inkscape-stroke:none"/>
+ </g>
+</svg>

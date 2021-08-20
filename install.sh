@@ -19,6 +19,7 @@ usage() {
   printf "  %-25s%s\n"   "-a, --all"       "Install all color folder versions"
   printf "  %-25s%s\n"   "-d, --dest DIR"  "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n"   "-n, --name NAME" "Specify theme name (Default: ${DEFAULT_NAME})"
+  printf "  %-25s%s\n"   "-r, --round"     "Install rounded version"
   printf "  %-25s%s\n"   "-h, --help"      "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
@@ -58,6 +59,9 @@ install_theme() {
 
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,64,256,scalable,symbolic}                "${THEME_DIR}"
+    if [ "${round}" == 'true' ]; then
+      cp -r "${SRC_DIR}"/round/*                                                 "${THEME_DIR}"
+    fi
     cp -r "${SRC_DIR}"/links/{16,22,24,32,64,256,scalable,symbolic}              "${THEME_DIR}"
     if [ -n "${colorprefix}" ]; then
       install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/places/*.svg     "${THEME_DIR}/scalable/places"
@@ -73,6 +77,10 @@ install_theme() {
     cp -r "${SRC_DIR}"/src/24/{actions,devices,places}                           "${THEME_DIR}/24"
     cp -r "${SRC_DIR}"/src/32/actions                                            "${THEME_DIR}/32"
     cp -r "${SRC_DIR}"/src/symbolic/*                                            "${THEME_DIR}/symbolic"
+
+    if [ "${round}" == 'true' ]; then
+      cp -r "${SRC_DIR}"/round/symbolic/*                                        "${THEME_DIR}/symbolic"
+    fi
 
     # Change icon color for dark theme
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{16,22,24,32}/actions/*.svg
@@ -131,6 +139,11 @@ while [ $# -gt 0 ]; do
       ;;
     -n|--name)
       NAME="${2}"
+      shift
+      ;;
+    -r|--round)
+      round="true"
+      echo "Installing 'Round' version..."
       shift
       ;;
     -h|--help)

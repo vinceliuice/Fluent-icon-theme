@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-813 191)" fill="#363636">
+  <path transform="translate(813 -191)" d="m8 4.0039c-1.108 0-2 0.9083-2 2.0293v0.9707h-0.5s-0.5 0-0.5 0.5v3s0 0.5 0.5 0.5h5s0.5 0 0.5-0.5v-3c0-0.5-0.5-0.5-0.5-0.5h-0.5v-0.9707c0-1.12-0.892-2.0293-2-2.0293zm0 1c0.554 0 1 0.442 1 1v1h-2v-1c0-0.558 0.446-1 1-1zm-2 2.9961h4v2h-4v-2z" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+  <path d="m821-190a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 6.707-5h-1.0527a6 6 0 0 1-5.6543 4 6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 5.1816 3h-1.6816c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3.207a7 7 0 0 0-0.0137-0.0371c7.5e-4 -3.1e-4 1e-3 -2e-3 2e-3 -2e-3a7 7 0 0 0-0.33398-0.875 7 7 0 0 0-6e-3 -0.0176 7 7 0 0 0-6e-3 -0.01 7 7 0 0 0-0.0254-0.0586h-6e-3a7 7 0 0 0-6.3183-4z"/>
+ </g>
+</svg>
