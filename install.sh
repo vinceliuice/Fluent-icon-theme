@@ -20,6 +20,7 @@ usage() {
   printf "  %-25s%s\n"   "-d, --dest DIR"  "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n"   "-n, --name NAME" "Specify theme name (Default: ${DEFAULT_NAME})"
   printf "  %-25s%s\n"   "-r, --round"     "Install rounded version"
+  printf "  %-25s%s\n"   "-b, --black"     "Install black panel icon version"
   printf "  %-25s%s\n"   "-h, --help"      "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
@@ -62,10 +63,13 @@ install_theme() {
     if [ "${round}" == 'true' ]; then
       cp -r "${SRC_DIR}"/round/*                                                 "${THEME_DIR}"
     fi
+    if [ "${black}" == 'true' ]; then
+      sed -i "s/#dedede/#363636/g" "${THEME_DIR}"/{16,22,24}/panel/*.svg
+    fi
     cp -r "${SRC_DIR}"/links/{16,22,24,32,64,256,scalable,symbolic}              "${THEME_DIR}"
     if [ -n "${colorprefix}" ]; then
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/places/*.svg     "${THEME_DIR}/scalable/places"
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/apps/*.svg       "${THEME_DIR}/scalable/apps"
+      install -m644 "${SRC_DIR}"/colors/color${colorprefix}/places/*.svg         "${THEME_DIR}/scalable/places"
+      install -m644 "${SRC_DIR}"/colors/color${colorprefix}/apps/*.svg           "${THEME_DIR}/scalable/apps"
     fi
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
@@ -82,6 +86,12 @@ install_theme() {
       cp -r "${SRC_DIR}"/round/symbolic/*                                        "${THEME_DIR}/symbolic"
     fi
 
+    if [ "${black}" == 'true' ]; then
+      cp -r "${SRC_DIR}"/src/16/panel                                            "${THEME_DIR}/16"
+      cp -r "${SRC_DIR}"/src/22/panel                                            "${THEME_DIR}/22"
+      cp -r "${SRC_DIR}"/src/24/panel                                            "${THEME_DIR}/24"
+    fi
+
     # Change icon color for dark theme
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{16,22,24,32}/actions/*.svg
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*.svg
@@ -93,20 +103,29 @@ install_theme() {
     cp -r "${SRC_DIR}"/links/32/actions                                          "${THEME_DIR}/32"
     cp -r "${SRC_DIR}"/links/symbolic/*                                          "${THEME_DIR}/symbolic"
 
+    if [ "${black}" == 'true' ]; then
+      cp -r "${SRC_DIR}"/links/16/panel                                          "${THEME_DIR}/16"
+      cp -r "${SRC_DIR}"/links/22/panel                                          "${THEME_DIR}/22"
+      cp -r "${SRC_DIR}"/links/24/panel                                          "${THEME_DIR}/24"
+    fi
+
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
     ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
-    ln -sr "${STD_THEME_DIR}/16/panel"                                           "${THEME_DIR}/16/panel"
     ln -sr "${STD_THEME_DIR}/16/status"                                          "${THEME_DIR}/16/status"
     ln -sr "${STD_THEME_DIR}/22/emblems"                                         "${THEME_DIR}/22/emblems"
     ln -sr "${STD_THEME_DIR}/22/mimetypes"                                       "${THEME_DIR}/22/mimetypes"
-    ln -sr "${STD_THEME_DIR}/22/panel"                                           "${THEME_DIR}/22/panel"
     ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
-    ln -sr "${STD_THEME_DIR}/24/panel"                                           "${THEME_DIR}/24/panel"
     ln -sr "${STD_THEME_DIR}/32/categories"                                      "${THEME_DIR}/32/categories"
     ln -sr "${STD_THEME_DIR}/32/status"                                          "${THEME_DIR}/32/status"
     ln -sr "${STD_THEME_DIR}/64"                                                 "${THEME_DIR}/64"
     ln -sr "${STD_THEME_DIR}/256"                                                "${THEME_DIR}/256"
+
+    if [ "${black}" != 'true' ]; then
+      ln -sr "${STD_THEME_DIR}/16/panel"                                         "${THEME_DIR}/16/panel"
+      ln -sr "${STD_THEME_DIR}/22/panel"                                         "${THEME_DIR}/22/panel"
+      ln -sr "${STD_THEME_DIR}/24/panel"                                         "${THEME_DIR}/24/panel"
+    fi
   fi
 
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
@@ -144,6 +163,11 @@ while [ $# -gt 0 ]; do
     -r|--round)
       round="true"
       echo "Installing 'Round' version..."
+      shift
+      ;;
+    -b|--black)
+      black="true"
+      echo "Installing 'Black' version..."
       shift
       ;;
     -h|--help)

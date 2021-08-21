@@ -2,5 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <path d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2h-12zm0 1h12c0.554 0 1 0.446 1 1h-14c0-0.554 0.446-1 1-1zm-1 2h14v8c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-8zm3 6c-0.554 0-1 0.446-1 1s0.446 1 1 1h8c0.554 0 1-0.446 1-1s-0.446-1-1-1h-8z" style="fill:currentColor" class="ColorScheme-Text"/>
+ <path d="m1 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-14zm0 1h14v10h-14v-10z" style="fill:currentColor" class="ColorScheme-Text"/>
+ <rect x="2" y="11" width="12" height="1" rx="0" ry="0" style="fill:currentColor" class="ColorScheme-Text"/>
 </svg>
