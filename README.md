@@ -1,5 +1,6 @@
 ## Fluent Icon Theme
-A Fluent design icon theme
+
+A Fluent design with blur icon theme
 
 ![Fluent](fluent-icon.png)
 
@@ -7,12 +8,14 @@ A Fluent design icon theme
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
-|  OPTIONS:  |                                                                               |
-|:-----------|:------------------------------------------------------------------------------|
-| -a, --all  | Install all color versions                                                    |
-| -d, --dest | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n, --name | Specify theme name (**Default:** _Fluent_)                                    |
-| -h, --help | Show this help                                                                |
+|  OPTIONS:   |                                                                               |
+|:------------|:------------------------------------------------------------------------------|
+| -a, --all   | Install all color versions                                                    |
+| -d, --dest  | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
+| -n, --name  | Specify theme name (**Default:** _Fluent_)                                    |
+| -r, --round | Install rounded version                                                       |
+| -b, --black | Install black panel icon version                                              |
+| -h, --help  | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |
 |:----------------|:--------------------------------------|
@@ -26,3 +29,5 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | yellow          | Yellow color folder version           |
 
 By default, only **the standard one** is selected.
+
+![Fluent](fluent-view.png)
