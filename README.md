@@ -1,8 +1,7 @@
-## Fluent Icon Theme
-
-A Fluent design with blur icon theme
 
 ![Fluent](fluent-icon.png)
+
+![Fluent](fluent-view.png)
 
 ## Installation
 
@@ -29,5 +28,3 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | yellow          | Yellow color folder version           |
 
 By default, only **the standard one** is selected.
-
-![Fluent](fluent-view.png)
