@@ -12,12 +12,6 @@
    <stop stop-color="#4285db" offset="0"/>
    <stop stop-color="#42b9db" offset="1"/>
   </linearGradient>
-  <filter id="filter986" x="-.06075" y="-.486" width="1.1215" height="1.972" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.6075"/>
-  </filter>
-  <clipPath id="clipPath992">
-   <rect x="29" y="41" width="6" height="16" rx="2.0208" ry="2.0208" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.8346" style="paint-order:stroke fill markers"/>
-  </clipPath>
   <linearGradient id="linearGradient1017" x1="32" x2="32" y1="54" y2="59" gradientUnits="userSpaceOnUse">
    <stop stop-color="#6b6b6b" offset="0"/>
    <stop stop-color="#c2c2c2" offset="1"/>
@@ -39,5 +33,5 @@
   <path d="m33.057 37.87v7.1303h1.2083v-6.3654z" fill="url(#linearGradient893)" opacity=".35" stroke-width=".030208"/>
  </g>
  <path d="m23.498 53c-0.38343 0-0.76674 0.1476-1.0605 0.44141l-3.5352 3.5352c-0.58761 0.58761-0.58761 1.5335 0 2.1211 0.5876 0.58761 1.5335 0.58761 2.1211 0l3.5352-3.5352c0.5876-0.58761 0.5876-1.5335 0-2.1211-0.2938-0.2938-0.67712-0.44141-1.0605-0.44141zm17.004 0c-0.38343 0-0.76674 0.1476-1.0605 0.44141-0.5876 0.58761-0.5876 1.5335 0 2.1211l3.5352 3.5352c0.58761 0.58761 1.5335 0.58761 2.1211 0 0.58761-0.5876 0.58761-1.5335 0-2.1211l-3.5352-3.5352c-0.2938-0.2938-0.67712-0.44141-1.0605-0.44141z" fill="url(#linearGradient1017)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7947" style="paint-order:stroke fill markers"/>
- <rect x="20" y="52" width="24" height="3" rx="1.5" ry="1.5" clip-path="url(#clipPath992)" fill="#808080" filter="url(#filter986)" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.5727" style="paint-order:stroke fill markers"/>
+ <image x="29" y="50.5" width="6" height="6" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAADFJREFUCJljbGho4GHAAlgYGRnN sUowMDAYYZNgwiYI03EGi4J/LP///z8OVYAM/gAArp8InAahLWUAAAAASUVORK5CYII= "/>
 </svg>

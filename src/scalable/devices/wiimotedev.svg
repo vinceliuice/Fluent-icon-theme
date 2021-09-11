@@ -1,16 +1,8 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="filter851" x="-.17031" y="-.079071" width="1.3406" height="1.1581" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="1.845"/>
-  </filter>
-  <clipPath id="clipPath857">
-   <rect transform="rotate(-90)" x="24" y="37" width="16" height="26" rx="3" ry="3.12" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0396" style="paint-order:stroke fill markers"/>
-  </clipPath>
- </defs>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <rect transform="rotate(90)" x="2" y="-45" width="56" height="26" rx="6" ry="6" fill="#808080"/>
  <path d="m39 13.6c0-0.776-0.624-1.6-1.4-1.6h-2.6v-2.6c0-0.776-0.824-1.4-1.6-1.4h-2.8c-0.776 0-1.6 0.624-1.6 1.4v2.6h-2.6c-0.776 0-1.4 0.825-1.4 1.6v2.8c0 0.776 0.624 1.6 1.4 1.6h2.6v2.6c0 0.776 0.824 1.4 1.6 1.4h2.8c0.776 0 1.6-0.624 1.6-1.4l-2e-3 -2.6h2.599c0.776 0 1.401-0.824 1.401-1.6v-2.8z" fill="#ffffff" opacity=".35"/>
  <rect x="24" y="37" width="16" height="26" rx="3" ry="3.12" fill="#f9f9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0396" style="paint-order:stroke fill markers"/>
- <rect transform="rotate(90)" x="2" y="-45" width="56" height="26" rx="6" ry="6" clip-path="url(#clipPath857)" fill="#808080" filter="url(#filter851)" opacity=".35"/>
+ <image x="24" y="37" width="16" height="25" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAZCAYAAAA4/K6pAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALZJREFUOI3tlDFOA0EMRZ+9djG5 RSgjuOPckQNwAihAYoV2158iIg1CmmQ7lN9a/+lJtmy9d3f3p6o6mlljIJJmd3+pqucAHiWdzGyk C4CZNUknQA48DDd/g44+qv1HDr6jDMAdcAf8E0BI0i6AmW17Db52AarqA2CaJiQNvSUz07adxSMi 3n4G1wAi4mLwuiyLtdZwH1/KPM9kpgJ4z0zWdR0uA2Tm2QD45PZ7KAPovd8E6L3XN/5xQ3XuVotj AAAAAElFTkSuQmCC "/>
  <circle transform="rotate(90)" cx="49" cy="-36" r="3" fill="#ffffff"/>
  <circle transform="rotate(90)" cx="41" cy="-36" r="3" fill="#ffffff"/>
  <circle transform="rotate(90)" cx="49" cy="-28" r="3" fill="#ffffff"/>
