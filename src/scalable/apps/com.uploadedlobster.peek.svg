@@ -1,15 +1,15 @@
-<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <title>Adwaita Icon Template</title>
+ <image x="6" y="6" width="52" height="52" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAABt0RVh0VGl0bGUAQWR3YWl0YSBJ Y29uIFRlbXBsYXRltbvnPwAAA1BJREFUaIHtmntP20AQxH9JzCOPtohHRSv1+3+0PqApCaEhhJD+ cTvx+nyOqIQdI3ml1Rnji2du7taW53pURy9x3Etd2EBsozY+3kVW8QO9V2QTsd2TkCAVE/JK9C0H LnUupd5bRazCi+XGpc6V+qSACXQGHAHH1io9qbqUkgoi8gysgSdr13bOE9tCWSEpcgScAEPLkbUi N2iI0MYRWQJ/rV0CK/sfOLVESOD6BvgUmAAfgU+WE0cqozj13oqYXxsvBBVEZgHMLOfunoU1lUVk MoIyE+AcuASugAtH6iQiVMcaEqE1QYkHI3JLGOxBRFxtQSFNtSFBmUvgq+VnIyhCWkt1TjlPaAFM 7f7Hdo3WltbSFlNIhDTdRgQ1rozMN+A6IqSKVzehZ3KFPti9IUzDR5drYfFTbkBgPzRCFwRlroEv wBkwJi8K/ZrIKFThngjFQMqsgHvCOprb+RWBfK9qyk2MwLnlGYHkkDAIqnJ1hqrcs+GCQO4e+E1e pHzVJS4Keu6MCGpMLMfW+STqUzchDR4EYhOXI/LHyK5AxWtIKh0b+FNr1VHVre7ppnixe272YCqs Zz/anpTeEjLyUeq7a5p6l+sTlNKrl/AIm8fVA3rxSPt3OJ9Nv5TGmPyAp7Dtop/oGP/IoYjEUYWp gC+1FtpGJI69+Jpa3I1FR6jt0RFqe3SE2h4dobZHR6jt0RFqe3SE2h4dobZHR6jtkSKUsv7aElXW 5C76iYtf1fEAkcJGdFxSyHuaPg9JzN+7CtsuskQH72nKf5FZm9k1TX4K1kd77wcJ24ZowPVt25OR p7kieC8r+1u+kAahiY/1W0fCY3okN5A9qYJCcszkxyxcjsndvg3N2ylLguklPA+GUaRKDp53nL1B OyU4ZzKb1nZ8CMPrj+GZAneGcUmuUkkhdV4aGZlK3gYcUzaN64iUJTkFfgC/DNuMXCURKq2htV00 A27InTPZgIcyje8JCv0Evhu2GblChTWkH/BTbk7unHkbUAoVXLMayKRs/TvDcEOw9+fsmXJQlFgg N45g2zZeLMjN4mRREKm1O6cKM+ewW2NUrlNbY/xz6FWbl/wGppQNWCeh/968FAN6b9vLSvvmqsC8 hw2AyXfLfcDe5RbNf2Jsirr9OEWVAAAAAElFTkSuQmCC "/>
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#e6e6e6" opacity=".35"/>
  <text x="43.500004" y="13.000002" fill="#000000" font-family="sans-serif" font-size="20px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="43.500004" y="30.695314"/></text>
- <rect x="6" y="6" width="52" height="52" rx="4" ry="4" enable-background="new" fill="#241f31" style="paint-order:normal"/>
- <rect x="10" y="10" width="44" height="44" rx="2" ry="2" enable-background="new" fill="#fff" opacity=".15" stroke-width=".91667" style="paint-order:normal"/>
- <rect x="10" y="22" width="44" height="32" rx="2" ry="2" enable-background="new" fill="#ec8e12" style="paint-order:normal"/>
+ <rect x="10" y="22" width="44" height="32" rx="4" ry="4" enable-background="new" fill="#ff9e1f" style="paint-order:normal"/>
  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2">
   <path d="m17 34v-5h6" enable-background="new"/>
   <path d="m47 34v-5h-6" enable-background="new"/>
   <path d="m47 42v5h-6" enable-background="new"/>
   <path d="m17 42v5h6" enable-background="new"/>
  </g>
- <circle cx="49" cy="15" r="3" enable-background="new" fill="#ed333b"/>
- <rect x="27" y="14" width="10" height="2" fill="#deddda"/>
+ <circle cx="49" cy="15" r="3" enable-background="new" fill="#ff5b63"/>
+ <rect x="27" y="14" width="10" height="2" fill="#ffffff"/>
 </svg>
