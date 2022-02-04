@@ -1,7 +1,7 @@
 
-![Fluent](fluent-icon.png)
+![Fluent](fluent-icon.jpg)
 
-![Fluent](fluent-view.png)
+![Fluent](fluent-view.svg)
 
 ## Installation
 
