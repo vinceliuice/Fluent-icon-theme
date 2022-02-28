@@ -8,30 +8,35 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "green" "grey" "orange" "pink" "purple" "red" "yellow")
+readonly COLOR_VARIANTS=("standard" "green" "grey" "orange" "pink" "purple" "red" "yellow" "teal")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 readonly DEFAULT_NAME="Fluent"
 
 usage() {
-  printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
-  printf "\n%s\n" "OPTIONS:"
-  printf "  %-25s%s\n"   "-a, --all"       "Install all color folder versions"
-  printf "  %-25s%s\n"   "-d, --dest DIR"  "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n, --name NAME" "Specify theme name (Default: ${DEFAULT_NAME})"
-  printf "  %-25s%s\n"   "-r, --round"     "Install rounded version"
-  printf "  %-25s%s\n"   "-b, --black"     "Install black panel icon version"
-  printf "  %-25s%s\n"   "-h, --help"      "Show this help"
-  printf "\n%s\n" "COLOR VARIANTS:"
-  printf "  %-25s%s\n"   "standard" "Standard color folder version"
-  printf "  %-25s%s\n"   "green"    "Green color folder version"
-  printf "  %-25s%s\n"   "grey"     "Grey color folder version"
-  printf "  %-25s%s\n"   "orange"   "Orange color folder version"
-  printf "  %-25s%s\n"   "pink"     "Pink color folder version"
-  printf "  %-25s%s\n"   "purple"   "Purple color folder version"
-  printf "  %-25s%s\n"   "red"      "Red color folder version"
-  printf "  %-25s%s\n"   "yellow"   "Yellow color folder version"
-  printf "\n  %s\n" "By default, only the standard one is selected."
+cat << EOF
+Usage: $0 [OPTION] | [COLOR VARIANTS]...
+
+OPTIONS:
+  -a, --all                Install all color folder versions
+  -d, --dest               Specify theme destination directory (Default: $HOME/.local/share/icons)
+  -n, --name               Specify theme name (Default: Fluent)
+  -r, --round              Install rounded version"
+  -h, --help               Show this help
+
+COLOR VARIANTS:
+  standard                 Standard color folder version
+  green                    Green color folder version
+  grey                     Grey color folder version
+  orange                   Orange color folder version
+  pink                     Pink color folder version
+  purple                   Purple color folder version
+  red                      Red color folder version
+  yellow                   Yellow color folder version
+  teal                     Teal color folder version
+
+  By default, only the standard one is selected.
+EOF
 }
 
 install_theme() {
