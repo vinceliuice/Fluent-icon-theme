@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <g transform="translate(0 -1058.5)">
+  <g>
+   <g transform="matrix(1.1413 0 0 .92329 -6.1231 85.73)"></g>
+   <g transform="translate(1.7945 -3.8836)">
+    <g>
+     <rect transform="scale(1,-1)" x="6.2069" y="-1120.4" width="46.002" height="52" rx="4.9777" ry="4.9777" fill="#387fe7" opacity=".8" stroke-width="3.7796"/>
+     <image x="6.2069" y="1068.4" width="46.002" height="52" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,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 0qME+BeK1RlEx32M3QAAAABJRU5ErkJggg=="/>
+     <rect transform="scale(1,-1)" x="6.2069" y="-1120.4" width="46" height="52" rx="4.9776" ry="4.9777" fill="#387fe7" opacity=".6" stroke-width="3.7795"/>
+     <path d="m52.11 1072.4c0.06425 0.3175 0.09827 0.6426 0.09827 0.9827v16.018a1.9919 1.9919 0 0 0 1.9918-1.9994v-12.998a1.9919 1.9919 0 0 0-1.9956-1.9994z" fill="#5ad85d" stroke-width="3.7796"/>
+     <path d="m52.208 1085.4v17.001a1.9919 1.9919 0 0 0 1.9956-1.9994v-13.002a1.9919 1.9919 0 0 0-1.9956-1.9994z" fill="#ff584c" stroke-width="3.7796"/>
+     <path d="m52.208 1099.4v15.999a1.9956 1.9956 0 0 0 1.9956-2.0032v-12a1.9919 1.9919 0 0 0-1.9956-1.9956z" fill="#ffce3d" stroke-width="3.7796"/>
+     <circle cx="29.207" cy="1094.4" r="16" fill="#ffffff" opacity=".2" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9105"/>
+     <path d="m29.208 1084.4c-2.7614 0-5 2.2386-5 5s2.2386 5 5 5c2.7614 0 5-2.2386 5-5s-2.2386-5-5-5zm0 2c1.6569 0 3 1.3431 3 3s-1.3431 3-3 3c-1.6569 0-3-1.3431-3-3s1.3431-3 3-3zm-5.1816 10c-1.561 0-2.8184 1.2573-2.8184 2.8184v5.1816h2v-6h12v6h2v-5.1816c0-1.5611-1.2573-2.8183-2.8184-2.8184z" fill="#ffffff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

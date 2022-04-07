@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient4314" cx="32" cy="1096.5" r="11" gradientTransform="matrix(.90909 0 0 .90909 2.4638 102.68)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#000000" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0 -1058.5)">
+  <rect transform="rotate(90)" x="1063.5" y="-50" width="53.999" height="36.001" rx="3.001" ry="3.001" fill="#bf61ca" opacity=".8" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+  <image x="14" y="1067.5" width="36.001" height="46.002" image-rendering="optimizeQuality" opacity=".75" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAuCAYAAABAm7v+AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAMdJREFUWIXtziFaQgEQBODZ54hS oBgtVALBE3A0b+YNCASqhUjRgiC+tc5H2Tgv7H+CP963H8SEcL54nLsTisPT34s7oUg+r9wJRYy5 cScUgfHNnVBExNqdUETi1Z1QTOTSnVAMxMydUAxEuBOKiZxUaHAH7nWo0qFKhyodqnSo0qFKhyod qnSo0qFKhyoMRLoTiomcXOjqTigG4sudUETg6E4oIvPgTigCw86dUMQQe3dC8Xb7+XQnFMfLw8md UDx//57dCfUP4PgkC0JUQxIAAAAASUVORK5CYII="/>
+  <path d="m8.0001 1072.5c-1.662 0-3 1.338-3 3v30c0 1.662 1.338 3.0001 3 3.0001h6v-36zm42 0v36h6c1.662 0 3-1.3381 3-3.0001v-30c0-1.662-1.338-3-3-3z" fill="#8f57c7" opacity=".9" style="paint-order:stroke fill markers"/>
+  <g transform="matrix(1.0107 0 0 1.0107 -.34332 -16.732)">
+   <g transform="translate(4.2842 -63)">
+    <g transform="translate(-96.284 -47)" opacity=".3">
+     <circle cx="124" cy="1203.5" r="11.873" fill="#d7d7f4" stroke-width="1.3192"/>
+    </g>
+   </g>
+   <g transform="translate(.44531 -5.1681)">
+    <circle cx="31.555" cy="1099.5" r="10" fill="url(#radialGradient4314)"/>
+    <circle cx="31.555" cy="1098.7" r="8.9045" fill="#6746c3" stroke-width=".98938"/>
+    <path d="m28.555 1093.7c-0.54768 0.01-0.98826 0.4522-0.98828 0.9998v7.9988c1.96e-4 0.7984 0.89015 1.2746 1.5547 0.8318l7.0003-3.9993c0.59353-0.3959 0.59353-1.2679 0-1.6638l-7.0003-3.9993c-0.16758-0.1118-0.365-0.1703-0.56641-0.168z" color="#000000" color-rendering="auto" fill="#ffffff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+  <rect x="18" y="1106.5" width="28" height="3.0002" rx="1.5001" ry="1.5001" fill="#ffffff" opacity=".2" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0001"/>
+  <rect x="18" y="1106.5" width="19" height="3" rx="1.5" ry="1.5" fill="#6746c3" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6475"/>
+ </g>
+</svg>
