@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter978" x="-.147" y="-.147" width="1.294" height="1.294" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.4262717"/>
+  </filter>
+  <clipPath id="clipPath984">
+   <circle cx="32" cy="32" r="21" fill="#ffffff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5405"/>
+  </clipPath>
+ </defs>
+ <path d="m31.998 4.0024c-0.40904 0-0.81444 0.013391-1.2174 0.030435l-26.75 26.752c-0.017044 0.40417-0.030435 0.80957-0.030435 1.2174 0 0.40904 0.013391 0.81444 0.030435 1.2174l26.752 26.75c0.40417 0.017044 0.80956 0.030435 1.2174 0.030435 15.465 0 28-12.535 28-28 0-0.40783-0.01339-0.81322-0.03043-1.2174v-0.0024l-26.75-26.75c-0.40539-0.017044-0.81078-0.030435-1.2174-0.030435z" fill="#ececec" stroke-width="1.2174"/>
+ <g stroke-width="1.2174">
+  <path d="m30.78 4.0329c-14.495 0.62087-26.131 12.259-26.752 26.752h26.752z" fill="#ec8e68"/>
+  <path d="m33.215 4.0329v26.752h26.752c-0.62087-14.495-12.259-26.131-26.752-26.752z" fill="#94db96"/>
+  <path d="m4.028 33.22c0.62087 14.495 12.259 26.131 26.752 26.752v-26.752z" fill="#9ab9dd"/>
+ </g>
+ <circle cx="32" cy="32" r="21" fill="#ffffff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5405"/>
+ <path d="m22.258 17.394h6.087v23.13h13.391v6.087h-19.478" fill="#3d3d3d" stroke-width="1.2174"/>
+ <g clip-path="url(#clipPath984)" filter="url(#filter978)" opacity=".5" stroke-width="1.2174">
+  <path d="m30.78 4.0329c-14.495 0.62087-26.131 12.259-26.752 26.752h26.752z" fill="#ec8e68"/>
+  <path d="m33.215 4.0329v26.752h26.752c-0.62087-14.495-12.259-26.131-26.752-26.752z" fill="#94db96"/>
+  <path d="m4.028 33.22c0.62087 14.495 12.259 26.131 26.752 26.752v-26.752z" fill="#9ab9dd"/>
+ </g>
+</svg>
