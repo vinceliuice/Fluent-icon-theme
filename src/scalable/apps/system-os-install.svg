@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><rect width="12.7" height="13.229" x="2.117" y="281.919" ry=".529" fill="#549bff" paint-order="stroke markers fill"/><path d="M2.646 281.919a.528.528 0 0 0-.53.529v5.045a9.26 9.26 0 0 0 8.467 5.538 9.26 9.26 0 0 0 4.234-1.027v-9.556a.528.528 0 0 0-.53-.53H2.646z" opacity=".1" fill="#00f" paint-order="stroke markers fill"/><path d="M2.646 281.919a.528.528 0 0 0-.53.529v12.17c0 .294.237.53.53.53h5.909a10.583 10.583 0 0 0 6.262-5.472v-7.228a.528.528 0 0 0-.53-.53H2.646z" opacity=".1" fill="#00f" paint-order="stroke markers fill"/><path d="M5.292 284.035a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-.794a2.381 2.381 0 0 1-2.381 2.382 2.381 2.381 0 0 1-2.382-2.382h-.793z" fill="#fff" paint-order="stroke markers fill"/><path d="M7.408 288.798h2.117l-.265 2.646h1.323l-2.116 1.852-2.117-1.852h1.323" fill="#fff"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="c" x="-.080882" y="-.16176" width="1.1618" height="1.3235" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".214"/>
+  </filter>
+  <clipPath id="a">
+   <rect x="1.587" y="2.646" width="13.758" height="12.7" rx=".794" ry=".794" fill="#ececec" opacity=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width=".37" style="paint-order:stroke fill markers"/>
+  </clipPath>
+  <filter id="b" x="-.11298" y="-.10356" width="1.226" height="1.2071" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".548"/>
+  </filter>
+ </defs>
+ <rect x="1.587" y="2.646" width="13.758" height="12.7" rx=".794" ry=".794" fill="#ececec" opacity=".5" style="paint-order:stroke fill markers"/>
+ <path d="m3.175 1.587a0.528 0.528 0 0 0-0.53 0.53v0.529h11.643v-0.53a0.528 0.528 0 0 0-0.53-0.529z" fill="#6694ff" style="paint-order:stroke markers fill"/>
+ <rect x="2.646" y="1.587" width="11.641" height="12.7" rx=".529" ry=".529" clip-path="url(#a)" fill="#3388ff" filter="url(#b)" style="paint-order:stroke markers fill"/>
+ <rect x="1.587" y="2.646" width="13.758" height="12.7" rx=".794" ry=".794" fill="#ffffff" opacity=".65" style="paint-order:stroke fill markers"/>
+ <path d="m5.292 4.233a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-0.794a2.381 2.381 0 0 1-2.381 2.381 2.381 2.381 0 0 1-2.382-2.38z" fill="#1754d3" filter="url(#c)" opacity=".35" style="paint-order:stroke markers fill"/>
+ <path d="m5.292 3.969a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-0.794a2.381 2.381 0 0 1-2.381 2.38 2.381 2.381 0 0 1-2.382-2.38z" fill="#6694ff" style="paint-order:stroke markers fill"/>
+ <path d="m7.673 8.731v2.646h-1.323l2.117 2.116 2.116-2.116h-1.323v-2.646z" fill="#ffffff" style="paint-order:stroke markers fill"/>
+</svg>
