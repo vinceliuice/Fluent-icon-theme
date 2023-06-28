@@ -23,13 +23,13 @@ for theme in "${_THEME_VARIANTS[@]}"; do
 done
 
 for theme in "${_THEME_VARIANTS[@]}"; do
-  tar -Jcvf "${THEME_NAME}${theme}.tar.xz" "${THEME_NAME}${theme}" "${THEME_NAME}${theme}-dark"
+  tar -Jcvf "${THEME_NAME}${theme}.tar.xz" "${THEME_NAME}${theme}"{'','-light','-dark'}
 done
 }
 
 Clear_theme() {
 for theme in "${_THEME_VARIANTS[@]}"; do
-  [[ -d "${THEME_NAME}${theme}" ]] && rm -rf "${THEME_NAME}${theme}" "${THEME_NAME}${theme}-dark"
+  [[ -d "${THEME_NAME}${theme}" ]] && rm -rf "${THEME_NAME}${theme}"{'','-light','-dark'}
 done
 }
 
