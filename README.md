@@ -13,7 +13,6 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | -d, --dest  | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
 | -n, --name  | Specify theme name (**Default:** _Fluent_)                                    |
 | -r, --round | Install rounded version                                                       |
-| -b, --black | Install black panel icon version                                              |
 | -h, --help  | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |
