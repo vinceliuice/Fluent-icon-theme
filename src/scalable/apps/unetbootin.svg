@@ -1,1 +1,10 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><g stroke-opacity=".55" stroke-width="2.8"><rect x="14" y="5" width="36" height="30" rx="2" ry="2" fill="#d1d1d1"/><path fill="#202224" d="M19 14h10v10H19z"/><path fill="#fdbc4a" d="M22 14h4v10h-4z"/><rect x="9" y="33" width="46" height="26" rx="3" ry="3" fill="#292b2c"/></g><path d="m34.065 42.8-1.804 1.804-4.356.796 1.78 1.78-1.696 1.695 2.025 2.025 1.695-1.696 1.694 1.696.836-4.226 1.85-1.849z" fill="#f2f2f2" fill-rule="evenodd" opacity=".2"/><path fill="#202224" d="M35 14h10v10H35z"/><path fill="#fdbc4a" d="M38 14h4v10h-4z"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="14" y="4" width="36" height="49" rx="4" ry="4" fill="#d1d1d1" stroke-opacity=".55" stroke-width="3.5784"/>
+ <path d="m19 13h10v10h-10z" fill="#202224" stroke-opacity=".55" stroke-width="2.8"/>
+ <path d="m22 13h4v10h-4z" fill="#fdbc4a" stroke-opacity=".55" stroke-width="2.8"/>
+ <rect x="7" y="28" width="50" height="32" rx="6" ry="6" fill="#292b2c" stroke-opacity=".55" stroke-width="3.2386"/>
+ <image x="8" y="28" width="48" height="31" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAfCAYAAACh+E5kAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAVBJREFUWMPtmH1PxCAMhx8YGvX7 f1a97NjqPyz2um7ERJgamjSXXRj8nnblLYgIxSLwBLwWfyu/L8AzMJU2AIE2tolZgQWYgRvwAbwX vwH30oakxE/FW4n7Cdt0rhto5I9b/OURr1n4FxkYAANgAAyAATAABsAAGABfBwo5OWhIB01nY+30 pUpHYjoMnUDkQMPOUkW45zQ6Vso3x98B6Ear8UUJDsWlUeRFjWl17EBSpYMFyKpWYofC10HLSsd6 VgPiiM/l9B9V26gyQOMMbOPfFcguC0kV5/anjvysopI7AyxF/Gwy8TCxJCd9obwQjPjpAoCsMpHV 53VYxKiXMR3p77/HxZatQ7cOkpnjRRHq2UhHvvU1jFRmo4eFLqirRZyp0goPHdYBby1YnUUVD8BC YIT3ugQTZ+vgbjE8AE/oVbd3Unk+3AvZLYNwnZ2O/Qk1S8ZKekj3GwAAAABJRU5ErkJggg== "/>
+ <path d="m34.068 39.95-1.804 1.804-4.356 0.796 1.78 1.78-1.696 1.695 2.025 2.025 1.695-1.696 1.694 1.696 0.836-4.226 1.85-1.849z" fill="#ffffff" fill-rule="evenodd" opacity=".5"/>
+ <path d="m35 13h10v10h-10z" fill="#202224"/>
+ <path d="m38 13h4v10h-4z" fill="#fdbc4a"/>
+</svg>
