@@ -1,0 +1,28 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  <linearGradient id="linearGradient15876" x1="17" x2="29" y1="-16" y2="-28" gradientTransform="matrix(1.0833 0 0 1.0833 .58333 30.333)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2a9ce4" offset="0"/>
+   <stop stop-color="#2f9ee5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1158" x1="3" x2="15" y1="-28" y2="-16" gradientTransform="matrix(1.0833 0 0 1.0833 -3.25 30.333)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6ad1fd" offset="0"/>
+   <stop stop-color="#39a8ea" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient53621" x1="17" x2="29" y1="-14" y2="-2" gradientTransform="matrix(1.0833 0 0 1.0833 .58333 34.167)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0d83da" offset="0"/>
+   <stop stop-color="#047ad3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient32965" x1="3" x2="15" y1="-2" y2="-14" gradientTransform="matrix(1.0833 0 0 1.0833 -3.25 34.167)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#188cdd" offset="0"/>
+   <stop stop-color="#178bdc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="start-here-kde">
+  <rect width="32" height="32" color="#bebebe" fill="none"/>
+  <path d="m17 2v13h13v-10c0-1.662-1.338-3-3-3z" fill="url(#linearGradient15876)" stroke-linejoin="round" stroke-width="1.0833"/>
+  <path d="m5 2c-1.662 0-3 1.338-3 3v10h13v-13z" fill="url(#linearGradient1158)" stroke-linejoin="round" stroke-width="1.0833"/>
+  <path d="m17 17v13h10c1.662 0 3-1.338 3-3v-10z" fill="url(#linearGradient53621)" stroke-linejoin="round" stroke-width="1.0833"/>
+  <path d="m2 17v10c0 1.662 1.338 3 3 3h10v-13z" fill="url(#linearGradient32965)" stroke-linejoin="round" stroke-width="1.0833"/>
+ </g>
+</svg>
