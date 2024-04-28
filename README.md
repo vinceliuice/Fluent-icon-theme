@@ -12,7 +12,6 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | -a, --all   | Install all color versions                                                    |
 | -d, --dest  | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
 | -n, --name  | Specify theme name (**Default:** _Fluent_)                                    |
-| -r, --round | Install rounded version                                                       |
 | -h, --help  | Show this help                                                                |
 
 |  COLOR VARIANTS |                                       |

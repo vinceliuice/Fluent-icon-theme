@@ -21,7 +21,6 @@ OPTIONS:
   -a, --all                Install all color folder versions
   -d, --dest               Specify theme destination directory (Default: $HOME/.local/share/icons)
   -n, --name               Specify theme name (Default: Fluent)
-  -r, --round              Install rounded version"
   -h, --help               Show this help
 
 COLOR VARIANTS:
@@ -65,10 +64,6 @@ install_theme() {
 
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,64,256,scalable,symbolic}                "${THEME_DIR}"
-
-    if [[ "${round}" == 'true' ]]; then
-      cp -r "${SRC_DIR}"/round/*                                                 "${THEME_DIR}"
-    fi
 
     cp -r "${SRC_DIR}"/links/{16,22,24,32,64,256,scalable,symbolic}              "${THEME_DIR}"
 
@@ -125,10 +120,6 @@ install_theme() {
     cp -r "${SRC_DIR}"/src/24/{actions,devices,places}                           "${THEME_DIR}/24"
     cp -r "${SRC_DIR}"/src/32/{actions,devices,status}                           "${THEME_DIR}/32"
     cp -r "${SRC_DIR}"/src/symbolic/*                                            "${THEME_DIR}/symbolic"
-
-    if [[ "${round}" == 'true' ]]; then
-      cp -r "${SRC_DIR}"/round/symbolic/*                                        "${THEME_DIR}/symbolic"
-    fi
 
     # Change icon color for dark theme
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{16,22,24,32}/actions/*.svg
@@ -187,11 +178,6 @@ while [ $# -gt 0 ]; do
       ;;
     -n|--name)
       NAME="${2}"
-      shift
-      ;;
-    -r|--round)
-      round="true"
-      echo "Installing 'Round' version..."
       shift
       ;;
     -h|--help)

@@ -1,8 +1,0 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path d="m8 0c-1.2691 0.0025929-2.3993 0.80348-2.8223 2h-4.1777c-0.27614 0-0.5 0.22386-0.5 0.5l0.007813 0.089844c0.04233 0.23324 0.24673 0.41016 0.49219 0.41016h0.55273l1.2969 11.229c0.11644 1.0092 0.97045 1.7715 1.9863 1.7715h6.3281c1.0159 0 1.8699-0.76228 1.9863-1.7715l1.2949-11.229h0.55469c0.2761 0 0.5-0.22386 0.5-0.5s-0.2239-0.5-0.5-0.5h-4.1719c-0.42374-1.1985-1.5569-1.9999-2.8281-2zm0 1c0.71398 5.537e-4 1.3735 0.38168 1.7305 1h-3.4551c0.35593-0.6165 1.0127-0.99735 1.7246-1zm-5.4395 2h10.877l-1.2812 11.115c-0.0582 0.5046-0.48419 0.88477-0.99219 0.88477h-6.3281c-0.50794 0-0.93397-0.38017-0.99219-0.88477l-1.2832-11.115z" fill="#363636"/>
- <rect x="6" y="5" width="1" height="8" rx=".5" ry=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <rect x="9" y="5" width="1" height="8" rx=".5" ry=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
-</svg>
