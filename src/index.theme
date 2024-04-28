@@ -127,15 +127,13 @@ Type=Fixed
 [32/devices]
 Context=Devices
 Size=32
-MinSize=32
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [32/categories]
 Context=Applications
 Size=32
 MinSize=32
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [32/status]
@@ -370,16 +368,14 @@ Type=Fixed
 Context=Devices
 Scale=2
 Size=32
-MinSize=32
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [32@2x/categories]
 Context=Applications
 Scale=2
 Size=32
 MinSize=32
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [32@2x/status]
@@ -557,16 +553,14 @@ Type=Fixed
 Context=Devices
 Scale=3
 Size=32
-MinSize=32
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [32@3x/categories]
 Context=Applications
 Scale=3
 Size=32
 MinSize=32
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [32@3x/status]
