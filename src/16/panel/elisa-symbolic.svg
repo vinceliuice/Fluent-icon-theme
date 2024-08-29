@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #dedede; } </style>
+<path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M2 5C2 3.89543 2.89543 3 4 3H12C13.1046 3 14 3.89543 14 5V11C14 12.1046 13.1046 13 12 13H4C2.89543 13 2 12.1046 2 11V5ZM3 5C3 4.44772 3.44772 4 4 4H12C12.5523 4 13 4.44772 13 5V9C13 9.55228 12.5523 10 12 10H4C3.44772 10 3 9.55228 3 9V5ZM13 10.7324V11C13 11.5523 12.5523 12 12 12H4C3.44772 12 3 11.5523 3 11V10.7324C3.29417 10.9026 3.63571 11 4 11H12C12.3643 11 12.7058 10.9026 13 10.7324Z" class="ColorScheme-Text"/>
+<path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M6 5C4.89543 5 4 5.89543 4 7C4 8.10457 4.89543 9 6 9H10C11.1046 9 12 8.10457 12 7C12 5.89543 11.1046 5 10 5H6ZM5 7C5 6.44772 5.44772 6 6 6C6.55228 6 7 6.44772 7 7C7 7.55228 6.55228 8 6 8C5.44772 8 5 7.55228 5 7ZM9 7C9 6.44772 9.44771 6 10 6C10.5523 6 11 6.44772 11 7C11 7.55228 10.5523 8 10 8C9.44771 8 9 7.55228 9 7Z" class="ColorScheme-Text"/>
+</svg>
