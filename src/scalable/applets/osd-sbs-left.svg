@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="64" height="64">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Accent{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+</style>
+    <g style="fill:none" id="64-64-osd-sbs-left">
+      <rect id="rect4252-1" height="64" width="64" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" d="m 4,18 0,22 14,0 0,4 -4,0 0,1 4,0 1,0 9,0 0,-1 -4,0 0,-4 1,0 0,-1 -6,0 -1,0 -13,0 0,-1 20,0 0,-1 L 5,37 5,19 25,19.002 25,18 4,18 Z m 22,0 0,22 14,0 0,4 -4,0 0,1 4,0 1,0 9,0 0,-1 -4,0 0,-4 14,0 0,-22 -34,0 z m 1,1 32,0.002 L 59,37 27,37 27,19 Z m 0,19 32,0 0,1 -18,0 -1,0 -13,0 0,-1 z m -8,2 4,0 0,4 -4,0 0,-4 z m 22,0 4,0 0,4 -4,0 0,-4 z" id="path4256-8" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 17,22 0,12 8,0 0,-1 -4,0 0,-6 4,0 0,-1 -7,0 0,-1 7,0 0,-3 -8,0 z m 11,0 0,3 7,0 0,1 -7,0 0,1 7,0 0,6 -7,0 0,1 8,0 0,-12 -8,0 z m 2,1 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -16,4 2,0 0,6 -2,0 0,-6 z" id="path4260" inkscape:connector-curvature="0" class="ColorScheme-Accent"/>
+    </g>
+</svg>

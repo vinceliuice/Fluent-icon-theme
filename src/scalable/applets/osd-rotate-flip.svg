@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="64" height="64">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Accent{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+</style>
+    <g style="fill:none" id="64-64-osd-rotate-flip" inkscape:label="#osd-rotate-flip">
+      <rect id="rect4249" height="64" width="64" x="0" y="0" style="fill:none"/>
+      <path id="path4253" d="m 59,11 -54,0 0,34 54,0 0,-34 z m -54,-1 -1,0 0,1 0,34 0,1 1,0 23,0 0,7 -7,0 0,1 7,0 1,0 6,0 1,0 7,0 0,-1 -7,0 0,-7 23,0 1,0 0,-1 0,-34 0,-1 -1,0 -54,0 z m 24,43 0,-7 6,0 0,7 -6,0 z M 7,13 57,13 57,42 7,42 7,13 Z m -1,-1 1,0 50,0 1,0 0,1 0,29 0,1 -1,0 -50,0 -1,0 0,-1 0,-29 0,-1 z" inkscape:connector-curvature="0" style="color:#7b7c7e;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text"/>
+      <path id="path4257" d="m 32,15 -4,7 3,0 0,11 -3,0 4,7 4,-7 -3,0 0,-11 3,0 -4,-7 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Accent"/>
+    </g>
+</svg>

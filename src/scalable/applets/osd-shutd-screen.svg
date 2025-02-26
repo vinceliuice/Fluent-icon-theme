@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="64" height="64">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Accent{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+</style>
+    <g style="fill:none" id="64-64-osd-shutd-screen">
+      <rect id="rect4271" height="64" width="64" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 26,12 0,14 1,0 0,-12.998047 32,-0.002 0,18 -20,0 0,1 20,0 0,1 -13,0 -1,0 -6,0 0,1 1,0 0,4 -1,0 0,1 6,0 1,0 4,0 0,-1 -4,0 0,-4 14,0 0,-22 -34,0 z m -22,15 0,22 14,0 0,4 -4,0 0,1 9,0 1,0 4,0 0,-1 -4,0 0,-4 14,0 0,-22 -34,0 z M 37,28 37,46 5,46 5,28.001953 37,28 Z m 4,6 4,0 0,4 -4,0 0,-4 z m -36,13 32,0 0,1 -13,0 -1,0 -18,0 0,-1 z m 14,2 4,0 0,4 -4,0 0,-4 z" transform="translate(0,-1)" id="path4273-1" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path id="path4283" d="m 13,30 16,0 0,12 -16,0 0,-12 z m 1,5 0,6 2,0 0,-6 -2,0 z m 3,6 11,0 0,-6 -11,0 0,6 z m 11,-7 -14,0 0,-1 14,0 0,1 z m -4,-3 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Accent"/>
+      <path id="path4285" d="m 38.0499,14.6358 -1.4141,1.414 1.5332,1.5332 0,0.002 3.416,3.4141 L 37.5841,25 39,25 l 0,1.4122 0.583,-0.583 0.0021,0 1.8289,-1.83 0.0011,0 1.584,-1.5841 4.9492,4.9473 1.4141,-1.4121 0,-0.002 -3.3632,-3.3619 0,-0.0033 -1.5841,-1.584 4.9473,-4.9493 -1.4121,-1.414 -0.002,0 -4.9492,4.9492 -4.9492,-4.9492 z" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#da4453;fill-rule:evenodd"/>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientTransform="matrix(.12178 0 0 .12178 17.661 1056.1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafbfb" offset="0"/>
+   <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="520" x2="410" y1="-620" y2="-620" gradientTransform="matrix(.032213 0 0 .032213 17.661 1056.1)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1" x1="-240.47" x2="-240.47" y1="-60.605" y2="-29.026" gradientTransform="matrix(1.0311 0 0 1.0133 277.81 1064.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4285db" offset="0"/>
+   <stop stop-color="#42b9db" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <rect x="-5.7696e-6" y="999.03" width="64" height="42.667" rx="5.3333" ry="5.3333" fill="#4d4d4d" stroke-width="1.0667"/>
+  <rect x="1.0667" y="1000.1" width="61.867" height="40.533" rx="4.2667" ry="4.1931" fill="url(#linearGradient1)" stroke-width="1.0667"/>
+  <path d="m24.106 1036.8 15.467-16.755 12.889 16.755z" fill="#1a1a1a" stroke-width="1.0667"/>
+  <path d="m22.946 1026.6-20.339 13.062c0.74027 0.608 1.6821 0.9877 2.7275 0.9877h39.812z" fill="#e6e6e6" opacity=".9" stroke-width="1.0667"/>
+  <path d="m18.95 1040.6 3.9957-14.049 22.202 14.049z" fill="#fafbfb" stroke-width="1.0667"/>
+  <path d="m39.573 1018.7-5.1563 5.4774v16.433h24.25c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#b0b2b5" stroke-width="1.0667"/>
+  <path d="m39.571 1018.7 6.4459 21.912h12.65c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#ffffff" stroke-width="1.0667"/>
+  <path d="m18.95 1040.6 3.9957-14.049 22.202 14.049z" fill="url(#b)" stroke-width="1.0667"/>
+  <path d="m33.127 1033v7.6053h1.2885v-6.7893z" fill="url(#c)" opacity=".35" stroke-width="1.0667"/>
+  <path d="m1.0667 1036.4v0.073c0 2.323 1.9029 4.1937 4.2667 4.1937h53.333c2.3637 0 4.2667-1.8708 4.2667-4.1937v-0.073z" fill="#ffffff" opacity=".35" stroke-width="1.0667"/>
+  <circle cx="56.533" cy="1038.5" r="1.0667" fill="#4d4d4d" stroke-width="1.0667"/>
+  <path d="m6.3999 1037.5v1.0666h1.0667v-1.0666zm1.0667 1.0666v1.0667h1.0667v-1.0667z" fill="#4d4d4d" stroke-width="1.0667"/>
+  <rect x="1.0667" y="1000.1" width="61.867" height="40.533" rx="4.2667" ry="4.1931" fill="#000000" opacity=".15" stroke-width="1.0667"/>
+  <path d="m11 1006.4v5h1v-4h4v-1zm37 0v1h4v4h1v-5zm-18 7v3h-2v11h13v-11h-2v-3zm1 1h7v2h-7zm-8 2v11h4v-11zm11.5 1c2.493 0 4.5 2.007 4.5 4.5s-2.007 4.5-4.5 4.5-4.5-2.007-4.5-4.5 2.007-4.5 4.5-4.5zm0 1c-1.939 0-3.5 1.561-3.5 3.5s1.561 3.5 3.5 3.5 3.5-1.561 3.5-3.5-1.561-3.5-3.5-3.5zm-23.5 11v5h5v-1h-4v-4zm41 0v4h-4v1h5v-5z" fill="#ffffff" stroke-width=".1"/>
+ </g>
+</svg>

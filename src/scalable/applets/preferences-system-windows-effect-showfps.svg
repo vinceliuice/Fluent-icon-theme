@@ -1,0 +1,61 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -988.36)">
+  <rect y="993.36" width="64" height="53" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+  <rect x="1" y="994.36" width="62" height="51" rx="3" ry="3" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  <rect x="1" y="1000.4" width="62" height="1" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+  <rect x="59" y="996.36" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+  <rect x="55" y="996.36" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+  <rect x="51" y="996.36" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+  <path x="16" y="1003.3622" width="32" height="33.999977" d="m1 1001.4h62v41c0 1.6568-1.3431 3-3 3h-56c-1.6569 0-3-1.3432-3-3z" fill="#f9f9f9" stroke-width=".11381"/>
+  <g transform="translate(8 999.36)">
+   <rect x="4" y="18" width="40" height="26" rx="3" ry="3" fill="#e0e0e0"/>
+   <g stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2">
+    <rect x="8" y="16" width="4" height="9" fill="#8dd35f"/>
+    <rect x="12" y="4" width="4" height="21" fill="#8dd35f"/>
+    <rect x="16" y="12" width="4" height="13" fill="#ff5555"/>
+    <rect x="20" y="10" width="4" height="15" fill="#8dd35f"/>
+    <rect x="24" y="7" width="4" height="18" fill="#8dd35f"/>
+    <rect x="28" y="12" width="4" height="13" fill="#ff5555"/>
+    <rect x="32" y="4" width="4" height="21" fill="#8dd35f"/>
+    <rect x="36" y="8" width="4" height="17" fill="#ff5555"/>
+   </g>
+   <g fill="#eff0f1" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2">
+    <rect x="8" y="31" width="4" height="3"/>
+    <rect x="8" y="39" width="4" height="3"/>
+    <rect x="8" y="27" width="4" height="3"/>
+    <rect x="14" y="31" width="4" height="3"/>
+    <rect x="14" y="39" width="4" height="3"/>
+    <rect x="14" y="27" width="4" height="3"/>
+    <rect x="20" y="31" width="12" height="3"/>
+    <rect x="20" y="39" width="12" height="3"/>
+    <rect x="20" y="27" width="12" height="3"/>
+    <rect x="34" y="31" width="6" height="3"/>
+    <rect x="34" y="39" width="6" height="3"/>
+    <rect x="34" y="27" width="6" height="3"/>
+    <rect x="8" y="35" width="4" height="3"/>
+    <rect x="14" y="35" width="4" height="3"/>
+    <rect x="20" y="35" width="12" height="3"/>
+    <rect x="34" y="35" width="6" height="3"/>
+   </g>
+   <rect x="9" y="28" width="1" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="9" y="32" width="2" height="1" fill="#c0392b" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="9" y="36" width="1" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="9" y="40" width="2" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="15" y="40" width="1" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="15" y="36" width="1" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="15" y="32" width="1" height="1" fill="#c0392b" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="15" y="28" width="1" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="21" y="28" width="4" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="21" y="32" width="2" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="24" y="32" width="2" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="21" y="36" width="3" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="21" y="40" width="7" height="1" fill="#c0392b" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="29" y="40" width="1" height="1" fill="#c0392b" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="35" y="28" width="3" height="1" fill="#258e52" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="35" y="32" width="1" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="35" y="36" width="2" height="1" fill="#c0392b" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <rect x="35" y="40" width="3" height="1" fill="#4d4d4d" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+   <path d="m8 25v-3c2 0 2-3 4-3s1.5 4 4 4 2-4 4-4 2-4 4-4 2 4 4 4 2-2 4-2 2-5 4-5 2 7 4 7v6z" fill="#ff9955" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

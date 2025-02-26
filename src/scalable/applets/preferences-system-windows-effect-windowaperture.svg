@@ -1,0 +1,67 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4224-2-1-4" x2="0" y1="25" y2="11" gradientTransform="matrix(1.4286 1.4286 -1.4286 1.4286 34.857 971.79)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197cf1" offset="0"/>
+   <stop stop-color="#20bcfa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientTransform="matrix(.12178 0 0 .12178 17.661 1056.1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafbfb" offset="0"/>
+   <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="520" x2="410" y1="-620" y2="-620" gradientTransform="matrix(.032213 0 0 .032213 17.661 1056.1)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="translate(0 4.6573)" stroke-width="1.0667">
+   <rect y="989.7" width="64" height="52" rx="5.3333" ry="5.3333" fill="#1a1a1a"/>
+   <rect x="1" y="990.7" width="62" height="50" rx="4.2667" ry="4.1931" fill="#4d4d4d"/>
+   <path d="m24.106 1036.8 15.467-16.755 12.889 16.755z" fill="#1a1a1a"/>
+   <path d="m22.946 1026.6-20.339 13.062c0.74027 0.608 1.6821 0.9877 2.7275 0.9877h39.812z" fill="#e6e6e6" opacity=".9"/>
+   <path d="m18.95 1040.6 3.9957-14.049 22.202 14.049z" fill="#fafbfb"/>
+   <path d="m39.573 1018.7-5.1563 5.4774v16.433h24.25c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#b0b2b5"/>
+   <path d="m39.571 1018.7 6.4459 21.912h12.65c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#ffffff"/>
+   <path d="m18.95 1040.6 3.9957-14.049 22.202 14.049z" fill="url(#b)"/>
+   <path d="m33.127 1033v7.6053h1.2885v-6.7893z" fill="url(#c)" opacity=".35"/>
+   <path d="m1.0667 1036.4v0.073c0 2.323 1.9029 4.1937 4.2667 4.1937h53.333c2.3637 0 4.2667-1.8708 4.2667-4.1937v-0.073z" fill="#ffffff" opacity=".35"/>
+   <circle cx="56.533" cy="1038.5" r="1.0667" fill="#4d4d4d"/>
+   <path d="m6.3999 1037.5v1.0666h1.0667v-1.0666zm1.0667 1.0666v1.0667h1.0667v-1.0667z" fill="#4d4d4d"/>
+  </g>
+  <rect x="1" y="1027.4" width="23" height="18" rx="3" ry="3" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+  <rect x="2" y="1028.4" width="21" height="15" rx="2" ry="2" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  <rect x="2" y="1032.4" width="21" height=".99998" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+  <rect x="20" y="1029.4" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+  <rect x="17" y="1029.4" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+  <rect x="14" y="1029.4" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+  <path x="16" y="1003.3622" width="32" height="33.999977" d="m2 1033.4h21v9c0 1-1 2-2 2h-17c-1 0-2-1-2-2z" fill="#ffffff" stroke-width=".11381"/>
+  <g transform="translate(-2.3437e-7 -32)">
+   <rect x="1" y="1027.4" width="23" height="18" rx="3" ry="3" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1028.4" width="21" height="15" rx="2" ry="2" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1032.4" width="21" height=".99998" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+   <rect x="20" y="1029.4" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+   <rect x="17" y="1029.4" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+   <rect x="14" y="1029.4" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+   <path x="16" y="1003.3622" width="32" height="33.999977" d="m2 1033.4h21v9c0 1-1 2-2 2h-17c-1 0-2-1-2-2z" fill="#ffffff" stroke-width=".11381"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 64 0)">
+   <rect x="1" y="1027.4" width="23" height="18" rx="3" ry="3" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1028.4" width="21" height="15" rx="2" ry="2" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1032.4" width="21" height=".99998" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+   <rect x="20" y="1029.4" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+   <rect x="17" y="1029.4" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+   <rect x="14" y="1029.4" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+   <path x="16" y="1003.3622" width="32" height="33.999977" d="m2 1033.4h21v9c0 1-1 2-2 2h-17c-1 0-2-1-2-2z" fill="#ffffff" stroke-width=".11381"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 64 -32)">
+   <rect x="1" y="1027.4" width="23" height="18" rx="3" ry="3" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1028.4" width="21" height="15" rx="2" ry="2" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect x="2" y="1032.4" width="21" height=".99998" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+   <rect x="20" y="1029.4" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+   <rect x="17" y="1029.4" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+   <rect x="14" y="1029.4" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+   <path x="16" y="1003.3622" width="32" height="33.999977" d="m2 1033.4h21v9c0 1-1 2-2 2h-17c-1 0-2-1-2-2z" fill="#ffffff" stroke-width=".11381"/>
+  </g>
+  <path d="m42 1010.4-8.5714 2.8571 5.7143 5.7143zm-11.429 2.8571-8.5714-2.8571 2.8572 8.5714zm8.5714 8.5714-5.7143 5.7143 8.5714 2.8572zm-5.7143-2.8571c-0.79144-0.7914-2.0657-0.7914-2.8572 0-0.79141 0.7914-0.79141 2.0657 0 2.8571 0.79144 0.7914 2.0657 0.7914 2.8572 0 0.79141-0.7914 0.79141-2.0657 0-2.8571zm-8.5714 2.8571-2.8572 8.5715 8.5714-2.8572z" fill="url(#linearGradient4224-2-1-4)" stroke-width=".1"/>
+ </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -988.36)">
+  <g transform="translate(-39 20.577)">
+   <g transform="matrix(1 -.26795 0 1 29.5 974.61)">
+    <rect x="15" y="9" width="34" height="41" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="10" width="32" height="39" rx="3" ry="3" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="14.04" width="32" height="1" fill="#000000" opacity=".15"/>
+    <rect x="44" y="11" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+    <rect x="41" y="11" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+    <rect x="38" y="11" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+    <path x="16" y="1003.3622" width="32" height="33.999977" d="m16 15.04h32v31a3 3 0 0 1-3 3h-26a3 3 0 0 1-3-3z" fill="#ffffff" stroke-width=".11381"/>
+   </g>
+   <g transform="matrix(1 -.26795 0 1 39.5 978.61)">
+    <rect x="15" y="9" width="34" height="41" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="10" width="32" height="39" rx="3" ry="3" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="14.04" width="32" height="1" fill="#000000" opacity=".15"/>
+    <rect x="44" y="11" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+    <rect x="41" y="11" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+    <rect x="38" y="11" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+    <path x="16" y="1003.3622" width="32" height="33.999977" d="m16 15.04h32v31a3 3 0 0 1-3 3h-26a3 3 0 0 1-3-3z" fill="#ffffff" stroke-width=".11381"/>
+   </g>
+   <g transform="matrix(1 -.26795 0 1 48.5 983.11)">
+    <rect x="15" y="9" width="34" height="41" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="10" width="32" height="39" rx="3" ry="3" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+    <rect x="16" y="14.04" width="32" height="1" fill="#000000" opacity=".15"/>
+    <rect x="44" y="11" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+    <rect x="41" y="11" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+    <rect x="38" y="11" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+    <path x="16" y="1003.3622" width="32" height="33.999977" d="m16 15.04h32v31a3 3 0 0 1-3 3h-26a3 3 0 0 1-3-3z" fill="#ffffff" stroke-width=".11381"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -63,9 +63,9 @@ install_theme() {
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
   if [[ -z "${brightprefix}" ]]; then
-    cp -r "${SRC_DIR}"/src/{16,22,24,32,64,256,scalable,symbolic}                "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/src/{16,22,24,32,256,scalable,symbolic}                   "${THEME_DIR}"
 
-    cp -r "${SRC_DIR}"/links/{16,22,24,32,64,256,scalable,symbolic}              "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/links/{16,22,24,32,256,scalable,symbolic}                 "${THEME_DIR}"
 
     if [[ -n "${colorprefix}" ]]; then
       install -m644 "${SRC_DIR}"/colors/color${colorprefix}/places/*.svg         "${THEME_DIR}/scalable/places"
@@ -91,7 +91,6 @@ install_theme() {
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
     ln -sr "${STD_THEME_DIR}/32"                                                 "${THEME_DIR}/32"
-    ln -sr "${STD_THEME_DIR}/64"                                                 "${THEME_DIR}/64"
     ln -sr "${STD_THEME_DIR}/256"                                                "${THEME_DIR}/256"
     ln -sr "${STD_THEME_DIR}/16/actions"                                         "${THEME_DIR}/16/actions"
     ln -sr "${STD_THEME_DIR}/16/devices"                                         "${THEME_DIR}/16/devices"
@@ -144,7 +143,6 @@ install_theme() {
     ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
     ln -sr "${STD_THEME_DIR}/24/panel"                                           "${THEME_DIR}/24/panel"
     ln -sr "${STD_THEME_DIR}/32/categories"                                      "${THEME_DIR}/32/categories"
-    ln -sr "${STD_THEME_DIR}/64"                                                 "${THEME_DIR}/64"
     ln -sr "${STD_THEME_DIR}/256"                                                "${THEME_DIR}/256"
   fi
 
@@ -152,7 +150,6 @@ install_theme() {
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@2x"
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@2x"
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@2x"
-  ln -sr "${THEME_DIR}/64"                                                       "${THEME_DIR}/64@2x"
   ln -sr "${THEME_DIR}/256"                                                      "${THEME_DIR}/256@2x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
 
@@ -160,7 +157,6 @@ install_theme() {
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@3x"
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@3x"
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@3x"
-  ln -sr "${THEME_DIR}/64"                                                       "${THEME_DIR}/64@3x"
   ln -sr "${THEME_DIR}/256"                                                      "${THEME_DIR}/256@3x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@3x"
 

@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1" x1="-240.47" x2="-240.47" y1="-60.605" y2="-29.026" gradientTransform="matrix(1.0311 0 0 1.0133 277.81 1069.4)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4285db" offset="0"/>
+   <stop stop-color="#42b9db" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientTransform="matrix(.12178 0 0 .12178 17.661 1060.8)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafbfb" offset="0"/>
+   <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="520" x2="410" y1="-620" y2="-620" gradientTransform="matrix(.032213 0 0 .032213 17.661 1060.8)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter1" x="-.052955" y="-.061102" width="1.1059" height="1.1222" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.90719969"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <rect x="2" y="994.36" width="60" height="52" rx="5.3333" ry="5.3333" fill="#4d4d4d" filter="url(#filter1)" opacity=".5" stroke="#3daefd" stroke-width="2"/>
+  <rect x="2" y="994.36" width="60" height="52" rx="5.3333" ry="5.3333" fill="#4d4d4d" stroke-width="1.0667"/>
+  <rect x="3" y="995.36" width="58" height="50" rx="4.2667" ry="4.1931" fill="url(#linearGradient1)" stroke-width="1.0667"/>
+  <g transform="matrix(.93637 0 0 1 2.0445 0)" stroke-width="1.0667">
+   <path d="m24.106 1041.5 15.467-16.755 12.889 16.755z" fill="#1a1a1a"/>
+   <path d="m22.946 1031.3-20.339 13.062c0.74027 0.608 1.6821 0.9877 2.7275 0.9877h39.812z" fill="#e6e6e6" opacity=".9"/>
+   <path d="m18.95 1045.3 3.9957-14.049 22.202 14.049z" fill="#fafbfb"/>
+   <path d="m39.573 1023.4-5.1563 5.4774v16.433h24.25c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#b0b2b5"/>
+   <path d="m39.571 1023.4 6.4459 21.912h12.65c1.1669 0 2.2187-0.4586 2.9867-1.2z" fill="#ffffff"/>
+   <path d="m18.95 1045.3 3.9957-14.049 22.202 14.049z" fill="url(#b)"/>
+   <path d="m33.127 1037.7v7.6053h1.2885v-6.7893z" fill="url(#c)" opacity=".35"/>
+  </g>
+  <path d="m3 1041.1v0.073c0 2.323 1.9029 4.1937 4.2667 4.1937h49.467c2.3637 0 4.2667-1.8708 4.2667-4.1937v-0.073z" fill="#ffffff" opacity=".35" stroke-width="1.0667"/>
+  <circle cx="56.533" cy="1043.2" r="1.0667" fill="#4d4d4d" stroke-width="1.0667"/>
+  <path d="m6.3999 1042.2v1.0666h1.0667v-1.0666zm1.0667 1.0666v1.0667h1.0667v-1.0667z" fill="#4d4d4d" stroke-width="1.0667"/>
+ </g>
+</svg>

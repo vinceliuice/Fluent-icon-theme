@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5010-8" x2="0" y1="536.8" y2="522.8" gradientTransform="matrix(1.4286 0 0 1.4286 -540.24 263.51)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eff0f1" offset="0"/>
+   <stop stop-color="#fcfcfc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientTransform="matrix(.11417 0 0 .11417 18.557 1053.9)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafbfb" offset="0"/>
+   <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="520" x2="410" y1="-620" y2="-620" gradientTransform="matrix(.0302 0 0 .0302 18.557 1053.9)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2" x1="-240.47" x2="-240.47" y1="-60.605" y2="-29.026" gradientTransform="matrix(.96667 0 0 .95 262.45 1061.9)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4285db" offset="0"/>
+   <stop stop-color="#42b9db" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient8" cx="32" cy="1020.4" r="29" gradientTransform="matrix(1 0 0 .65517 0 351.85)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#292c2f" stop-opacity="0" offset="0"/>
+   <stop stop-color="#292c2f" stop-opacity=".82353" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <rect x="2" y="1000.4" width="60" height="40" rx="5" ry="5" fill="#4d4d4d"/>
+  <rect x="3" y="1001.4" width="58" height="38" rx="4" ry="3.931" fill="url(#linearGradient2)"/>
+  <path d="m24.599 1035.7 14.5-15.708 12.083 15.708z" fill="#1a1a1a"/>
+  <path d="m23.512 1026.2-19.068 12.246c0.694 0.57 1.577 0.926 2.557 0.926h37.324z" fill="#e6e6e6" opacity=".9"/>
+  <path d="m19.766 1039.4 3.746-13.171 20.814 13.171z" fill="#fafbfb"/>
+  <path d="m39.1 1018.8-4.834 5.135v15.406h22.734c1.094 0 2.08-0.43 2.8-1.125z" fill="#b0b2b5"/>
+  <path d="m39.098 1018.8 6.043 20.543h11.859c1.094 0 2.08-0.43 2.8-1.125z" fill="#ffffff"/>
+  <path d="m19.766 1039.4 3.746-13.171 20.814 13.171z" fill="url(#b)"/>
+  <path d="m33.057 1032.2v7.13h1.208v-6.365z" fill="url(#c)" opacity=".35"/>
+  <path d="m3 1035.4v0.068c0 2.1778 1.784 3.9317 4 3.9317h50c2.216 0 4-1.7539 4-3.9317v-0.068z" fill="#ffffff" opacity=".35"/>
+  <path d="m27 1010.4c-0.6925 0-1.25 0.5575-1.25 1.25s0.5575 1.25 1.25 1.25 1.25-0.5575 1.25-1.25-0.5575-1.25-1.25-1.25zm7.8571 0-2.8571 2.8572 4.2857 4.2857-4.2857 4.2857 2.8571 2.8571 4.2857-4.2857 2.8572-2.8571-2.8572-2.8572zm-10.982 7.5c-1.0388 0-1.875 0.8363-1.875 1.875 0 1.0388 0.8362 1.875 1.875 1.875 1.0387 0 1.875-0.8362 1.875-1.875 0-1.0387-0.8363-1.875-1.875-1.875zm5.625 7.5c-1.385 0-2.5 1.115-2.5 2.5s1.115 2.5 2.5 2.5 2.5-1.115 2.5-2.5-1.115-2.5-2.5-2.5z" fill="url(#linearGradient5010-8)"/>
+  <circle cx="55" cy="1037.4" r="1" fill="#4d4d4d"/>
+  <path d="m7.9999 1036.4v1h1v-1zm1 1v1h1v-1z" fill="#4d4d4d"/>
+  <rect x="3" y="1001.4" width="58" height="38" rx="4" ry="3.931" fill="url(#radialGradient8)" opacity=".36"/>
+ </g>
+</svg>

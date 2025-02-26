@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="application-toml.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="1.5909903"
+     inkscape:cx="-147.39248"
+     inkscape:cy="-31.741238"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       id="grid5"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       id="a"
+       width="1.0778644"
+       height="1.0667341"
+       x="-0.038932178"
+       y="-0.033367063"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation=".206"
+         id="feGaussianBlur1" />
+    </filter>
+  </defs>
+  <path
+     d="M3.44 1.354a1.32 1.32 0 0 0-1.323 1.323v12.171c0 .733.59 1.323 1.323 1.323h10.053a1.32 1.32 0 0 0 1.323-1.323V4.53l-3.175-3.175z"
+     filter="url(#a)"
+     opacity=".15"
+     style="paint-order:stroke fill markers"
+     transform="scale(3.7796)"
+     id="path1" />
+  <g
+     fill-rule="evenodd"
+     id="g3">
+    <path
+       fill="#f4f4f4"
+       d="M13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5V16L44 4z"
+       style="paint-order:stroke fill markers"
+       id="path2" />
+    <path
+       fill="#bbb"
+       d="m14.816 4.233-3.175-3.175V2.91c0 .733.59 1.323 1.323 1.323z"
+       style="paint-order:stroke fill markers"
+       transform="scale(3.7796)"
+       id="path3" />
+  </g>
+  <path
+     d="M43.998 10.999v.586c0 3 2.23 5.416 5 5.416h7v-1.002h-7a4.99 4.99 0 0 1-5.004-5z"
+     opacity=".1"
+     style="paint-order:stroke fill markers"
+     id="path4" />
+  <path
+     style="fill:#9c4221"
+     d="m 41,20 v 3 h 3 v 23 h -3 v 3 h 3 3 V 20 h -3 z"
+     id="path7" />
+  <path
+     style="fill:#3f3f3f"
+     d="m 25,26 v 3 h 6 v 16 h 3 V 29 h 6 v -3 z"
+     id="path8" />
+  <path
+     style="fill:#9c4221"
+     d="m 18,20 v 29 h 3 3 V 46 H 21 V 23 h 3 v -3 h -3 z"
+     id="path9" />
+</svg>

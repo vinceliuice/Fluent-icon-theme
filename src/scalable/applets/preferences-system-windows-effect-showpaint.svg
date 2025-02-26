@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect y="5" width="64" height="53" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+ <rect x="1" y="6" width="62" height="51" rx="3" ry="3" fill="#566069" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ <rect x="1" y="12.04" width="62" height="1" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+ <rect x="59" y="8" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+ <rect x="55" y="8" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+ <rect x="51" y="8" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+ <path x="16" y="1003.3622" width="32" height="33.999977" d="m1 13.04h62v41c0 1.6568-1.3431 3-3 3h-56c-1.6569 0-3-1.3432-3-3z" fill="#71e39a" stroke-width=".11381"/>
+ <rect x="13" y="16" width="38" height="35" rx="4" ry="4" fill="#000000" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0569" style="paint-order:stroke fill markers"/>
+ <rect x="14" y="17" width="36" height="33" rx="3" ry="3" fill="#3daee9" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ <rect x="14" y="23" width="36" height="1" fill="#000000" opacity=".15" stroke-width="1.3919"/>
+ <rect x="46" y="19.04" width="2" height="2" rx="1" fill="#ffaaaa" stroke-width=".1"/>
+ <rect x="42" y="19.04" width="2" height="2" rx="1" fill="#ffd42a" stroke-width=".1"/>
+ <rect x="38" y="19.04" width="2" height="2" rx="1" fill="#bcd35f" stroke-width=".1"/>
+ <path x="16" y="1003.3622" width="32" height="33.999977" d="m14 24.04h36v22.96c0 1.6568-1.3431 3-3 3h-30c-1.6569 0-3-1.3432-3-3z" fill="#ffb64e" stroke-width=".11381"/>
+</svg>
