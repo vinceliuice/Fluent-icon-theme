@@ -242,6 +242,7 @@ install_theme() {
   elif [ "${bright}" = "light" ]; then
     local STD_THEME_DIR="${DEST_DIR}/${NAME}${colorprefix}"
     for sz in 16 22 24; do
+      ensure_dir "${TMP_DIR}/${sz}"
       rel_link "${SHARED_LIGHT_BASE}/${sz}/panel" "${TMP_DIR}/${sz}/panel"
     done
     rel_link "${STD_THEME_DIR}/scalable"     "${TMP_DIR}/scalable"
@@ -274,7 +275,7 @@ install_theme() {
       "symbolic"
     do
       local src="${SHARED_DARK_BASE}/${path}"
-      [ -e "$src" ] && rel_link "$src" "${TMP_DIR}/${path}"
+      [ -e "$src" ] && ensure_dir "${TMP_DIR}/${path}" && rel_link "$src" "${TMP_DIR}/${path}"
     done
     rel_link "${STD_THEME_DIR}/scalable"       "${TMP_DIR}/scalable"
     rel_link "${STD_THEME_DIR}/16/mimetypes"   "${TMP_DIR}/16/mimetypes"
