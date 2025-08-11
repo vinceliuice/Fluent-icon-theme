@@ -10,11 +10,11 @@ for svgfile in "$INPUT_DIR"/*.svg; do
   filename=$(basename "$svgfile" .svg)
   echo "Converting $svgfile to $OUTPUT_DIR/$filename.png"
   inkscape  \
-    --export-area-drawing \
+    --export-area-page \
     --export-background-opacity=0 \
+    --export-type=png \
     -o "$OUTPUT_DIR/$filename.png" \
-    -w 64 -h 64 "$svgfile"
+    "$svgfile"
 done
 
 echo "All SVGs converted to PNG with transparency and color match!"
-
