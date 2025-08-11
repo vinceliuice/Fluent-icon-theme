@@ -10,12 +10,12 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Fluent-cursors" ]; then
-  rm -r "$DEST_DIR/Fluent-cursors"
+if [ -d "$DEST_DIR/Fluent-V2" ]; then
+  rm -r "$DEST_DIR/Fluent-V2"
 fi
 
-if [ -d "$DEST_DIR/Fluent-dark-cursors" ]; then
-  rm -r "$DEST_DIR/Fluent-dark-cursors"
+if [ -d "$DEST_DIR/Fluent-dark-cursors-V2" ]; then
+  rm -r "$DEST_DIR/Fluent-dark-cursors-V2"
 fi
 
 cp -r dist $DEST_DIR/Fluent-cursors
