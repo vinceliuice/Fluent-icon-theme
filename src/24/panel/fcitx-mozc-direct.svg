@@ -1,6 +1,6 @@
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#f2f2f2; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
  </defs>
  <g transform="translate(4.0006 4)" class="ColorScheme-Text" fill="currentColor">
   <path d="m7.498 2h1.0156l3.4863 12h-1.3672l-1.0781-4h-3.1484l-1.0645 4h-1.3418zm0.48828 1.8867-1.3652 5.1133h2.7559z"/>
