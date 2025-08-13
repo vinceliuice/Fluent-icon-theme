@@ -112,7 +112,7 @@ init_shared_names() {
 
 # Build base for standard brightness (full content without index.theme)
 build_shared_base() {
-  if [ -d "${SHARED_BASE}" ]; then return; fi
+  safe_rm_dir "${SHARED_BASE}"
   echo "Preparing shared base: ${SHARED_BASE}"
   ensure_dir "${SHARED_BASE}"
   for d in 16 22 24 32 256 scalable symbolic; do
@@ -125,7 +125,7 @@ build_shared_base() {
 
 # Build base for light variant (only 16/22/24 panel, #dedede -> #363636)
 build_shared_light_base() {
-  if [ -d "${SHARED_LIGHT_BASE}" ]; then return; fi
+  safe_rm_dir "${SHARED_LIGHT_BASE}"
   echo "Preparing shared light base: ${SHARED_LIGHT_BASE}"
   ensure_dir "${SHARED_LIGHT_BASE}"
   for sz in 16 22 24; do
@@ -141,7 +141,7 @@ build_shared_light_base() {
 
 # Build base for dark variant (subset dirs with #363636 -> #dedede)
 build_shared_dark_base() {
-  if [ -d "${SHARED_DARK_BASE}" ]; then return; fi
+  safe_rm_dir "${SHARED_DARK_BASE}"
   echo "Preparing shared dark base: ${SHARED_DARK_BASE}"
   ensure_dir "${SHARED_DARK_BASE}"
 
@@ -158,6 +158,7 @@ build_shared_dark_base() {
   merge_copy "${SRC_DIR}/src/32/actions"     "${SHARED_DARK_BASE}/32/actions"
   merge_copy "${SRC_DIR}/src/32/devices"     "${SHARED_DARK_BASE}/32/devices"
   merge_copy "${SRC_DIR}/src/32/status"      "${SHARED_DARK_BASE}/32/status"
+
   if [ -d "${SRC_DIR}/src/symbolic" ]; then
     ensure_dir "${SHARED_DARK_BASE}/symbolic"
     cp -r "${SRC_DIR}/src/symbolic/." "${SHARED_DARK_BASE}/symbolic/"
