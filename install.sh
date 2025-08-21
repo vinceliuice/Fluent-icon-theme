@@ -212,8 +212,29 @@ install_theme() {
   local THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   local TMP_DIR="${THEME_DIR}.tmp.$$"
-  safe_rm_dir "${TMP_DIR}"
+  safe_rm_dir "${THEME_DIR}.tmp*"
   ensure_dir "${TMP_DIR}"
+
+  case "$color" in
+    standard)
+      theme_color='#198ee6' ;;
+    purple)
+      theme_color='#dc63ee' ;;
+    pink)
+      theme_color='#ff5c93' ;;
+    red)
+      theme_color='#ff6666' ;;
+    orange)
+      theme_color='#ff9c33' ;;
+    yellow)
+      theme_color='#ffcb52' ;;
+    green)
+      theme_color='#67cb6b' ;;
+    teal)
+      theme_color='#32c8ba' ;;
+    grey)
+      theme_color='#808080' ;;
+  esac
 
   echo "Installing '${THEME_NAME}'..."
 
@@ -233,13 +254,11 @@ install_theme() {
       done
       for sub in apps places; do
         ensure_dir "${TMP_DIR}/scalable/${sub}"
-        [ -d "${SHARED_BASE}/scalable/${sub}" ] && cp -r "${SHARED_BASE}/scalable/${sub}/." "${TMP_DIR}/scalable/${sub}/"
+        merge_copy "${SRC_DIR}/src/scalable/${sub}" "${TMP_DIR}/scalable/${sub}"
+        safe_sed_replace "#198ee6" "${theme_color}" "${TMP_DIR}/scalable/${sub}/*.svg"
+        merge_copy "${SRC_DIR}/links/scalable/${sub}" "${TMP_DIR}/scalable/${sub}"
       done
-      local COLOR_DIR="${SRC_DIR}/colors/color-${color}"
-      [ -d "${COLOR_DIR}/places" ] && install -m644 "${COLOR_DIR}/places/"*.svg "${TMP_DIR}/scalable/places" 2>/dev/null || true
-      [ -d "${COLOR_DIR}/apps" ] && install -m644 "${COLOR_DIR}/apps/"*.svg "${TMP_DIR}/scalable/apps" 2>/dev/null || true
     fi
-
   elif [ "${bright}" = "light" ]; then
     local STD_THEME_DIR="${DEST_DIR}/${NAME}${colorprefix}"
     for sz in 16 22 24; do
