@@ -1,0 +1,19 @@
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#333" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="4" y="4" width="56" height="56" rx="10" ry="10" opacity=".35" stroke-width="1.098"/>
+  <rect x="8" y="8" width="48" height="48" rx="6" ry="6" filter="url(#filter3)" stroke-width=".94117"/>
+ </g>
+ <g>
+  <mask id="mask0_6_2" x="7" y="8" width="48" height="48" style="mask-type:luminance" maskUnits="userSpaceOnUse">
+   <path d="m54.111 8.8889h-46.222v46.222h46.222v-46.222z" fill="#fff"/>
+  </mask>
+  <g mask="url(#mask0_6_2)">
+   <path d="m38.238 26.944c0 2.1274-1.7244 3.8519-3.8517 3.8519s-3.8519-1.7245-3.8519-3.8519c0-2.1273 1.7246-3.8518 3.8519-3.8518s3.8517 1.7245 3.8517 3.8518zm-9.5492-2.6753c0-0.5522-0.4478-1-1-1h-13.407c-0.5523 0-1 0.4478-1 1l-1e-4 5.7037c0 0.5523 0.4478 1 1 1h5.7037c0.5523 0 1 0.4477 1 1v9.2989c0 0.5523 0.4478 1 1 1h5.7038c0.5522 0 1-0.4477 1-1v-17.003zm13.25-0.3874c0.1559-0.3711 0.5193-0.6126 0.9219-0.6126h6.666c0.7144 0 1.1984 0.7275 0.9224 1.3864l-7.1225 17.003c-0.1558 0.3717-0.5194 0.6136-0.9224 0.6136h-6.6891c-0.7149 0-1.1988-0.7283-0.9219-1.3874l7.1456-17.003z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <defs>
+  <filter id="filter3" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.16"/>
+  </filter>
+ </defs>
+</svg>

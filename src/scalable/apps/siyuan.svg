@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter3" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.16"/>
+  </filter>
+ </defs>
+ <rect x="4" y="4" width="56" height="56" rx="10" ry="10" fill="#f2f2f2" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.098"/>
+ <rect x="8" y="8" width="48" height="48" rx="6" ry="6" fill="#e6e6e6" filter="url(#filter3)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".94117"/>
+ <g transform="matrix(1.3846 0 0 1.3846 -1.2308 -1.2308)">
+  <path d="m18 13-3 10 3 5 6 6 2-9-2-6zm12 0-2 10 2 5 7 7v-15z" fill="#565e6c"/>
+  <path d="m18 13-7 7v15l7-7zm12 0-6 6v15l6-6z" fill="#e46262"/>
+ </g>
+</svg>
