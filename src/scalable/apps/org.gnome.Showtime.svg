@@ -1,0 +1,47 @@
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="g" cx="0" cy="0" r="1" gradientTransform="matrix(0,26,-26,0,111,77)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F8E45C" stop-opacity="0" offset="0"/>
+   <stop stop-color="#F8E45C" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient49" cx="50" cy="59" r="30" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="radialGradient50" cx="50" cy="59" r="30" gradientTransform="matrix(.73333 0 0 .73333 13.333 15.733)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="radialGradient51" cx="50" cy="59" r="30" gradientTransform="matrix(.43333 0 0 .43333 28.333 33.433)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <linearGradient id="linearGradient56" x1="-7.8682" x2="80" y1="-32" y2="-32" gradientTransform="matrix(1 0 0 .99997 -.00049234 -.0013914)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1C71D8" offset="0"/>
+   <stop stop-color="#C061CB" offset=".525"/>
+   <stop stop-color="#FFA348" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient59" x1="-7.8682" x2="80" y1="-32" y2="-32" gradientTransform="translate(-64)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F8E45C" offset="0"/>
+   <stop stop-color="#2EC27E" offset=".513"/>
+  </linearGradient>
+  <filter id="filter60" x="-.18375" y="-.18375" width="1.3675" height="1.3675" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.7562463"/>
+  </filter>
+  <linearGradient id="linearGradient15" x1="-7.8682" x2="80" y1="-32" y2="-32" gradientTransform="matrix(1 0 0 .99997 -64 -.0013918)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient59"/>
+  <linearGradient id="linearGradient16" x1="-7.8682" x2="80" y1="-32" y2="-32" gradientTransform="translate(-64)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient59"/>
+ </defs>
+ <rect transform="scale(-1)" x="-59" y="-50" width="54" height="36" rx="3.0011" ry="3.0009" fill="url(#linearGradient15)" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <rect x="7" y="20" width="50" height="24" rx="1" ry=".96" fill="#fff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9798"/>
+ <rect transform="rotate(90)" x="5" y="-50" width="54" height="36" rx="3.0011" ry="3.0009" fill="url(#linearGradient56)" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path transform="matrix(-1 0 0 -1 -.0010917 -.00049234)" d="m-14-14v-36h-36v36z" fill="url(#linearGradient16)" filter="url(#filter60)" opacity=".35" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path d="m50 29a30 30 0 0 0-30 30h27c1.6626 0 3-1.3394 3-3.002v-26.998z" fill="url(#radialGradient49)" opacity=".25" stroke-width="1.1013"/>
+  <path d="m50 37a22 22 0 0 0-22 22h19c1.6626 0 3-1.3394 3-3.002v-18.998z" fill="url(#radialGradient50)" opacity=".25" stroke-width=".80765"/>
+  <path d="m50 46a13 13 0 0 0-13 13h10c1.6626 0 3-1.3394 3-3.002v-9.998z" fill="url(#radialGradient51)" opacity=".25" stroke-width=".47725"/>
+ </g>
+ <g fill="#fff">
+  <path d="m27.731 23.173a2.6684 2.6684 0 0 0-2.7327 2.6608v12.329c0 2.0485 2.2262 3.3298 4.0026 2.3056l10.67-6.1608a2.6722 2.6722 0 0 0 0-4.6225l-10.67-6.157a2.676 2.676 0 0 0-1.2699-0.35528z" fill-rule="evenodd" stroke-width="3.7796"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <rect x="7" y="16" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="11" y="16" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="51" y="16" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="55" y="16" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="7" y="46" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="11" y="46" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="51" y="46" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+   <rect x="55" y="46" width="2" height="2" rx=".40751" ry=".40751" opacity=".65"/>
+  </g>
+ </g>
+</svg>
