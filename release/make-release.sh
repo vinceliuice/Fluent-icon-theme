@@ -25,7 +25,7 @@ done
 rm -rf "01-${THEME_NAME}.tar.xz"
 
 for theme in "${_THEME_VARIANTS[@]}"; do
-  tar -Jcvf "${THEME_NAME}${theme}.tar.xz" "${THEME_NAME}${theme}"{'','-light','-dark'} ."${THEME_NAME}"{'','-light','-dark'}-base
+  tar -Jcvf "${THEME_NAME}${theme}.tar.xz" "${THEME_NAME}${theme}"{'','-light','-dark'}
 done
 
 mv "${THEME_NAME}.tar.xz" "01-${THEME_NAME}.tar.xz"
@@ -35,11 +35,9 @@ Clear_theme() {
 for theme in "${_THEME_VARIANTS[@]}"; do
   [[ -d "${THEME_NAME}${theme}" ]] && rm -rf "${THEME_NAME}${theme}"{'','-light','-dark'}
 done
-
-rm -rf ."${THEME_NAME}"{'','-light','-dark'}-base
 }
 
-cd .. && ./install.sh -d $THEME_DIR -a
+cd .. && ./release_install.sh -d $THEME_DIR -a
 
 cd $THEME_DIR && Tar_themes && Clear_theme
 
