@@ -1,1 +1,18 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="9" width="58" height="46" rx="4" ry="4" fill="#e1434f"/><path d="M7 9v5h4V9zm46 0v5h4V9zM7 18v4h4v-4zm46 0v4h4v-4zM7 26v4h4v-4zm46 0v4h4v-4zM7 34v4h4v-4zm46 0v4h4v-4zM7 42v4h4v-4zm46 0v4h4v-4zM7 50v5h4v-5zm46 0v5h4v-5z" opacity=".3"/><rect x="17" y="43" width="30" height="3" rx="1.5" ry="1.5" fill="#f9f9f9" opacity=".5" style="paint-order:normal"/><circle cx="24.5" cy="44.5" r="3.5" fill="#fff" style="paint-order:normal"/><path d="M32 17c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-3 4 9 6-9 6z" fill="#fff" style="paint-order:normal"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter4" x="-.13179" y="-.16617" width="1.2636" height="1.3323" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.185"/>
+  </filter>
+  <clipPath id="clipPath5">
+   <rect transform="rotate(-90)" x="3" y="9" width="58" height="46" rx="4" ry="4" fill="#f2f2f2"/>
+  </clipPath>
+ </defs>
+ <rect transform="rotate(90)" x="3" y="-55" width="58" height="46" rx="4" ry="4" fill="#e1434f"/>
+ <rect x="3" y="9" width="58" height="46" rx="4" ry="4" fill="#f2f2f2"/>
+ <rect transform="rotate(90)" x="3" y="-55" width="58" height="46" rx="4" ry="4" clip-path="url(#clipPath5)" fill="#e1434f" filter="url(#filter4)" opacity=".35"/>
+ <path d="m10 10v4h3v-4zm41 0v4h3v-4zm-41 8v4h3v-4zm41 0v4h3v-4zm-41 8v4h3v-4zm41 0v4h3v-4zm-41 8v4h3v-4zm41 0v4h3v-4zm-41 8v4h3v-4zm41 0v4h3v-4zm-41 8v4h3v-4zm41 0v4h3v-4z" opacity=".2"/>
+ <rect x="17" y="43" width="30" height="3" rx="1.5" ry="1.5" fill="#f9f9f9" opacity=".5" style="paint-order:normal"/>
+ <rect x="17" y="43" width="12" height="3" rx="1.5" ry="1.5" fill="#e1434f" opacity=".5" stroke-width=".63246" style="paint-order:normal"/>
+ <circle cx="27.5" cy="44.5" r="3.5" fill="#ff8080" style="paint-order:normal"/>
+ <path d="m32 17c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-3 4 9 6-9 6z" fill="#fff" style="paint-order:normal"/>
+</svg>
