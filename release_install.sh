@@ -33,6 +33,9 @@ COLOR VARIANTS:
   red                      Red color folder version
   yellow                   Yellow color folder version
   teal                     Teal color folder version
+  (rrggbb)                 Custom color folder version
+                           Enter as valid rgb hexadecimal code
+                           You can only define one at a time
 
   By default, only the standard one is selected.
 EOF
@@ -51,13 +54,8 @@ safe_sed_replace() {
 install_theme() {
   # Appends a dash if the variables are not empty
   if [[ "$1" != "standard" ]]; then
-    local -r colorprefix="-$1"
+    local colorprefix="-$1"
   fi
-
-  local -r brightprefix="${2:+-$2}"
-
-  local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
-  local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   case "$color" in
     standard)
@@ -78,7 +76,16 @@ install_theme() {
       theme_color='#32c8ba' ;;
     grey)
       theme_color='#808080' ;;
+    *)
+      # Valid hex color code
+      theme_color="#${color}"
+      colorprefix="-custom" ;;
   esac
+
+  local -r brightprefix="${2:+-$2}"
+
+  local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
+  local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
   if [ -d "${THEME_DIR}" ]; then
     rm -r "${THEME_DIR}"
@@ -195,6 +202,8 @@ install_theme() {
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
+custom_color_set=false
+
 while [ $# -gt 0 ]; do
   case "${1}" in
     -a|--all)
@@ -216,6 +225,12 @@ while [ $# -gt 0 ]; do
       # If the argument is a color variant, append it to the colors to be installed
       if [[ " ${COLOR_VARIANTS[*]} " = *" ${1} "* ]] && [[ "${colors[*]}" != *${1}* ]]; then
         colors+=("${1}")
+      elif [[ "${1}" =~ ''^([[:xdigit:]]{6})$ ]]; then
+        # Building multiple custom colors is bad because
+        # they will just overwrite each other
+        $custom_color_set && echo "ERROR: You cannot install multiple themes with custom colors at once." && exit 1
+        colors+=("${1}")
+        custom_color_set=true
       else
         echo "ERROR: Unrecognized installation option '${1}'."
         echo "Try '${0} --help' for more information."
